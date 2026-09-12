@@ -25,7 +25,7 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/![Uploading image.png…]()
+![Task 1 Screenshot](screenshots/
 
 
 
@@ -35,7 +35,9 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+A protocol is a set of rules that devices follow to communicate with each other over a network.
+Example:- Protocol in networking is like traffic rules on a road:
+          Cars(data) need to know where to go, when to stop, and how to move safely.
 
 ---
 
