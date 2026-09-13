@@ -66,12 +66,11 @@ Write a short explanation (**100–150 words**) that includes:
 💡 **Tip:** You may use ChatGPT (as demonstrated in Task 1) to refine your explanation.
 
 ## Answer
-
 Packet Switching - it explain how a website data is divided into packets and travels through networks.
-IP Address - an unique address given to a device on a network.It helps identify the send and receiver of allows data packets to reach the correct destination.
-TCP/IP - It is a set of communication protocol used to connect devices and exchange data over the internet.TCP means ensure that the data is divided into packets and delivered reliably and in the correct order.
-IP means responsible for addressing and rooting packets.
-HTTP/HTTPS - HTTP is a protocol is used to transfer web pages and other data between web browser.HTTPS is a secure version of HTTP. It encrypts the data exchanged between the user's device and the website,helping protect information such as passwords and payment details. 
+IP Address - an unique address given to a device on a network. It helps identify the send and receiver of allows data packets to reach the correct destination.
+TCP/IP - It is a set of communication protocol used to connect devices and exchange data over the internet. TCP means ensure that the data is divided into packets and delivered reliably and in the correct order. IP means responsible for addressing and rooting packets. 
+HTTP/HTTPS - HTTP is a protocol is used to transfer web pages and other data between web browser. HTTPS is a secure version of HTTP. It encrypts the data exchange between the user's devices and the website, helping protect information such as passwords and payment details.
+
 ---
 
 # 🏗️ Task 3: Application Architecture & Stack
