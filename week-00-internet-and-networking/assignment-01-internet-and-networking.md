@@ -153,14 +153,15 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-1.DNS(Domain Name System) is a system that translates a domain name(such as example.com)into an IP address(such as 192.168.1.10).
-Example: example.com->DNS->192.168.1.10
+1.DNS(Domain Name System) is a like a phonebook of the internet. It converts a human-readable domain name such as google.com into the corresponding IP address of the server where the website is hosted.
+Example: google.com->DNS->192.168.1.10
 This makes it easier for users to access websites without remembering numerical IP addresses.
-2.The A(address) record should be used when connecting a domain name to an IPv4 address.
-An A record maps a domain name to an IPv4 address, allowing browsers to find and connect to the correct server.
-Example:-Type:A
-         Name:example.com
-         Value:192.168.1.10
+2.To connect a domain name to a given IPv4 address, we use an A(Address) record.
+Example:-Domain:example.com
+         Record Type:A
+         IP Address:192.168.1.10
+Why record?
+An A record is used to map a domain name to an IPv4 address. When a user enters the domain name, DNS uses the A record to find the server's IP address and connect the user to the website.
 
 ---
 
