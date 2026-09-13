@@ -156,6 +156,7 @@ In **50–100 words**, explain in your own words:
 1.DNS(Domain Name System) is a like a phonebook of the internet. It converts a human-readable domain name such as google.com into the corresponding IP address of the server where the website is hosted.
 Example: google.com->DNS->192.168.1.10
 This makes it easier for users to access websites without remembering numerical IP addresses.
+
 2.To connect a domain name to a given IPv4 address, we use an A(Address) record.
 Example:-Domain:example.com
          Record Type:A
