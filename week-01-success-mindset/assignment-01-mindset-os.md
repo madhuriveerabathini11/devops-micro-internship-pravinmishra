@@ -55,23 +55,22 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Consistent practice is more effective than studying a lot in one day.
 
 ### Evidence from my life
 
-Add your answer here...
 
----
+I tried learning python by studying a small topic every day instead of trying to learn everything at once. I understood the concepts better and became more confident when I practiced regularly.
+
 
 ## Truth #2
 
 ### Truth
 
-Add your answer here...
+Practical experience helps me understood technical concepts better than only reading theory.
 
 ### Evidence from my life
 
-Add your answer here...
 
 ---
 
