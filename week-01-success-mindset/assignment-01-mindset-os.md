@@ -278,7 +278,7 @@ Examples:
 **Yes / No**
 
 Answer:
-
+Yes, I wrote down my pending tasks, study goals, internship work, career goals, personal responsibilities, worries, ideas and things I need to complete.
 
 ---
 
@@ -296,7 +296,10 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Monday-Thursday: 1 hour of focused learning and coding
+Friday: Review what I learned during the week
+Saturday: DMI internship tasks and practical work
+Sunday: Weekly review , planning and revision
 
 ---
 
@@ -304,11 +307,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Saturday and Sunday - 2 hours in the evening
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+5 sessions per week
 
 ---
 
@@ -322,7 +325,6 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
 
 ---
 
