@@ -70,7 +70,7 @@ I tried learning python by studying a small topic every day instead of trying to
 Practical experience helps me understood technical concepts better than only reading theory.
 
 ### Evidence from my life
-
+When I started working on internship tasks and practicing tools like GitHub, VS Code, and networking concepts, I understood then better by doing the tasks myself. Practical work helped me remember the concepts for a longer time.
 
 ---
 
@@ -78,11 +78,10 @@ Practical experience helps me understood technical concepts better than only rea
 
 ### Truth
 
-Add your answer here...
-
+Making mistakes is an important part of learning a new skill.
 ### Evidence from my life
 
-Add your answer here...
+While learning programming and technical tools, I made errors in my code and setup. By finding the errors and trying again and again. I learning how to solve problem instead of being afraid of mistakes.
 
 ---
 
