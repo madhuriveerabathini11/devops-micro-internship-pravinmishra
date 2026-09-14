@@ -297,8 +297,11 @@ Example:
 #### My Weekly Routine
 
 Monday-Thursday: 1 hour of focused learning and coding
+
 Friday: Review what I learned during the week
+
 Saturday: DMI internship tasks and practical work
+
 Sunday: Weekly review , planning and revision
 
 ---
