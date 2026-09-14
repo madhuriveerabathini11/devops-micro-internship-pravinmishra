@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe that having a college degree does not guarantee to success. Many people think that getting good marks and completing a degree is enough to get a good career. I disagree with this. In today's world, practical skills, continuous learning. communication, problem-solving and consistency are equally important. A person who keeps learning and improving their skills can create better opportunities, even if they are not the topper in college. I believe skills and the willingness to learn matter more than marks alone.
 
 ---
 
