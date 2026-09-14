@@ -297,19 +297,19 @@ hashtag#DMIByPravinMishra hashtag#AgenticAI hashtag#DevOps
 
 ### What did you find easy?
 
-Add your answer here...
+I found understanding basic networking concepts like IP address, protocols, TCP/IP, HTTP/HTTPS, and DNS easy. Setting up VS Code and running basic commands in the terminal was also easy for me.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Understanding application architecture, especially the difference between two-tier and three-tier applications, was a little difficult at first. Understanding how DNS connects a domain name to an IP address also required some practice.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Next week, I will improve my understanding of DevOps concepts and practice more with Git, GitHub, VS Code, and command-line tools. I will also focus on improving my technical communication and practical skills.
 
 ---
 
