@@ -216,6 +216,7 @@ Choose books that improve:
 7. Mindset - Carol S. Dweck
 8. The Power of Now - Eckhart Tolle Leaders Eat Last - Simon Sinek
 9. Leaders Eat Last - Simon Sinek
+    
 10.The 5 AM Club - Robin Sharma
 ---
 
@@ -327,7 +328,12 @@ Examples:
 * Environment setup
 
 #### My Distraction Rules
-
+Keep my phone away during study sessions.
+Avoid unnecessary social media while studying.
+Use only the required websites and applications.
+Study in a clean and quiet environment
+Complete one task before starting another.
+Take a short breaks instead of checking my phone frequently.
 
 ---
 
@@ -335,16 +341,14 @@ Examples:
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
-
+I realized that I can learn and complete difficult tasks when I stay consistent and give myself enough focused time.
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+My biggest weakness is getting distracted by my phone and sometimes postponing tasks until later.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
-
+Everyday from 7:00 PM to 8:00 PM, I will keep my phone away and focus only on learning, coding, or internship work.
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
