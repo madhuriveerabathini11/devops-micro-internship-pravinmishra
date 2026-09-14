@@ -216,7 +216,6 @@ Choose books that improve:
 7. Mindset - Carol S. Dweck
 8. The Power of Now - Eckhart Tolle Leaders Eat Last - Simon Sinek
 9. Leaders Eat Last - Simon Sinek
-    
 10.The 5 AM Club - Robin Sharma
 ---
 
