@@ -209,15 +209,14 @@ Choose books that improve:
 
 1. Atomic Habits - James Clear
 2. The 7 Habits of Highly Effective People - Stephen R. Covey
-3.How to Win Friends and Influence People - Dale Carnegie
+3. How to Win Friends and Influence People - Dale Carnegie
 4. Deep Work - Cal Newport
 5. The Psychology of Money - Morgan Housel
 6. Ikigai - Hector Garcia &Francesc Miralles
 7. Mindset - Carol S. Dweck
-8.The Power of Now - Eckhart Tolle
-9. The 5 AM Club - Robin Sharma
-10.Leaders Eat Last - Simon Sinek
-
+8. The Power of Now - Eckhart Tolle Leaders Eat Last - Simon Sinek
+9. Leaders Eat Last - Simon Sinek
+10.The 5 AM Club - Robin Sharma
 ---
 
 # Assignment 6. What are the things you will measure regularly in your life and career?
