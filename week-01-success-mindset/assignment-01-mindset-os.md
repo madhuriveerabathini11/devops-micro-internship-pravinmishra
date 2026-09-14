@@ -181,7 +181,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+I felt guilt, stress and regret after taking a shortcut instead of doing the work honestly. At first, I felt relieved because I finished the task quickly, but later I realized that I had not truly learned or earned the result. I also worried that someone might find out, which made me uncomfortable. This experience taught me that shortcuts may save time temporarily, but they can create stress and reduce my confidence. Now I try to complete my work honestly and learn from my mistakes.
 
 ---
 
