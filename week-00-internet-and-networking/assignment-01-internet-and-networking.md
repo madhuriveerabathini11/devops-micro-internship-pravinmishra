@@ -251,7 +251,7 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://www.linkedin.com/posts/madhuri-veerabathini-094521434_dmi-devops-micro-internship-with-agentic-activity-7505254922234347521-501z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG22JTAB1_eYQ7yvaGfZgC6yVAu4REytxjY
 ```
 
 ---
@@ -260,7 +260,36 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+🚀 Week 00 Completed — Internet & Networking | DevOps Micro Internship
+I’m excited to share my progress from Week 00 of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI.
+This week helped me understand important DevOps and networking fundamentals through practical tasks.
+🤖 ChatGPT
+I learned how to use ChatGPT as a learning assistant by creating clear prompts and getting simplified explanations of technical concepts. I understood that a networking protocol is a set of rules that devices follow to communicate.
+🌐 Internet & Networking
+I learned about:
+Packet Switching
+IP Address
+TCP/IP
+HTTP and HTTPS
+These concepts helped me understand how data travels between users and websites over the internet.
+🏗️ App Architecture
+I explored Two-Tier and Three-Tier Application Architecture.
+Two-Tier:
+Frontend → Database
+Three-Tier:
+Frontend → Backend → Database
+I also learned about technologies such as HTML/CSS, React, Python, Node.js, MySQL, and PostgreSQL.
+🌍 DNS
+I learned that DNS (Domain Name System) works like a phonebook for the internet. It converts a domain name into an IP address.
+I also learned that an A record is used to connect a domain name to an IPv4 address.
+💻 VS Code Setup
+I practiced using Visual Studio Code, opened the integrated terminal, and ran basic commands. This gave me hands-on experience with my development environment.
+Overall, Week 00 strengthened my understanding of Internet, Networking, Application Architecture, DNS, and developer tools. I'm looking forward to learning more and continuing my DevOps journey! 🚀
+
+A big thank you to @Pravin Mishra(https://lnkd.in/dJfsABxT @Anjana Muthunayake(https://lnkd.in/d-u9XmpX) for guiding learners through this amazing DevOps journey . 
+
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://lnkd.in/deUi2cAD Start your DevOps journey: https://lnkd.in/dZFE-eCZ
+hashtag#DMIByPravinMishra hashtag#AgenticAI hashtag#DevOps
 
 ---
 
