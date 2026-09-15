@@ -366,7 +366,7 @@ Everyday from 7:00 PM to 8:00 PM, I will keep my phone away and focus only on le
 
 Paste your LinkedIn post link here:
 
-`Add your URL here`
+https://www.linkedin.com/posts/madhuri-veerabathini-094521434_dmi-devops-micro-internship-with-agentic-activity-7505558963074285569-aLV5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG22JTAB1_eYQ7yvaGfZgC6yVAu4REytxjY
 
 ---
 
