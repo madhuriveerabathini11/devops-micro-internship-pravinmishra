@@ -372,7 +372,7 @@ https://www.linkedin.com/posts/madhuri-veerabathini-094521434_dmi-devops-micro-i
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: https://www.linkedin.com/posts/madhuri-veerabathini-094521434_dmi-devops-micro-internship-with-agentic-activity-7505558963074285569-aLV5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG22JTAB1_eYQ7yvaGfZgC6yVAu4REytxjY
+- LinkedIn Post URL: https://www.linkedin.com/posts/madhuri-veerabathini-094521434_devops-dmi-agenticai-activity-7506339098832584706-CBqa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG22JTAB1_eYQ7yvaGfZgC6yVAu4REytxjY
 - Blog / Medium : https://medium.com/@madhuriveerabathini11/week-01-completed-success-mindset-mindset-os-807757e85508?postPublishedType=initial
 
 ---
