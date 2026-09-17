@@ -131,7 +131,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ✅ Completed| ✅ Solved|https://lnkd.in/p/dFJ9ezJk| https://medium.com/@madhuriveerabathini11/week-00-internet-networking-devops-micro-internship-8fb3e7757983  |
-| 01 | Success Mindset |✅ Completed  |✅ Solved | https://www.linkedin.com/posts/madhuri-veerabathini-094521434_dmi-devops-micro-internship-with-agentic-activity-7505558963074285569-aLV5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG22JTAB1_eYQ7yvaGfZgC6yVAu4REytxjY | https://medium.com/@madhuriveerabathini11/week-01-completed-success-mindset-mindset-os-807757e85508?postPublishedType=initial|
+| 01 | Success Mindset |✅ Completed  |✅ Solved | https://www.linkedin.com/posts/madhuri-veerabathini-094521434_devops-dmi-agenticai-activity-7506339098832584706-CBqa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG22JTAB1_eYQ7yvaGfZgC6yVAu4REytxjY | https://medium.com/@madhuriveerabathini11/week-01-completed-success-mindset-mindset-os-807757e85508?postPublishedType=initial|
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
