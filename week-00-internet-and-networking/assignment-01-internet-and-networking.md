@@ -251,7 +251,7 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 Paste your LinkedIn post URL here:
 
 ```text
-https://www.linkedin.com/posts/madhuri-veerabathini-094521434_dmi-devops-micro-internship-with-agentic-activity-7505254922234347521-501z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG22JTAB1_eYQ7yvaGfZgC6yVAu4REytxjY
+https://lnkd.in/p/dFJ9ezJk
 ```
 
 ---
