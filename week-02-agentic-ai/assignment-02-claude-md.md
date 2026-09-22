@@ -50,7 +50,7 @@ Update the generated `CLAUDE.md` file by adding project-specific instructions ac
 
 #### Screenshot 3 — Your customized CLAUDE.md in VS Code showing all 5 sections (scroll to show the full file)
 
-<img width="737" height="658" alt="image" src="https://github.com/user-attachments/assets/96d69841-5899-41c6-b1cb-922d28760799" />
+<img width="747" height="177" alt="Screenshot 2026-09-22 161831" src="https://github.com/user-attachments/assets/4adb3b7b-7035-436e-a653-18a1d34a8dd6" />
 
 
 ---
@@ -65,7 +65,7 @@ Verify that Claude’s behavior changes after adding `CLAUDE.md` by running a ne
 
 #### Screenshot 4 — Claude's specific, detailed answer after reading CLAUDE.md (Claude mentioning S3, CloudFront and Terraform)
 
-Add your screenshot here.
+<img width="737" height="658" alt="Screenshot 2026-09-22 161107" src="https://github.com/user-attachments/assets/7eab9743-a871-446e-8cbb-392ace0f8b94" />
 
 ---
 
