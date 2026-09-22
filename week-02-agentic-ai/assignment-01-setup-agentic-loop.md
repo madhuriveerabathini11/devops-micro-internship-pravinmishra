@@ -81,7 +81,7 @@ Interact with Claude Code and observe how it performs the Agentic Loop (Gather â
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+https://github.com/madhuriveerabathini11/devops-micro-internship-pravinmishra/edit/main/week-02-agentic-ai/assignment-01-setup-agentic-loop.md
 
 ---
 
