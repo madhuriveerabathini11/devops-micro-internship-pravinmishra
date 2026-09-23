@@ -20,10 +20,8 @@ Capture Claude’s response before `CLAUDE.md` exists in the project to establis
 
 #### Screenshot 1 — Claude’s generic response before CLAUDE.md exists (project contains only `index.html`, `style.css`, `images/`, `README.MD`, `privacy.html`, `terms.html`)
 
-<img width="211" height="252" alt="Screenshot 2026-09-22 160106" src="https://github.com/user-attachments/assets/170c71b4-883e-4ee1-9a5f-95bb07c81226" />
+<img width="440" height="418" alt="Screenshot 2026-09-23 124321" src="https://github.com/user-attachments/assets/0ee261ec-1891-4110-815c-85c34fe7b636" />
 
-
----
 
 # Task 2 — Generate the First Draft with /init
 
@@ -35,8 +33,7 @@ Generate an initial `CLAUDE.md` file using the `/init` command and review the au
 
 #### Screenshot 2 — The auto-generated CLAUDE.md open in VS Code showing its content
 
-<img width="198" height="242" alt="Screenshot 2026-09-22 160710" src="https://github.com/user-attachments/assets/b989de5f-2859-4d37-9570-c23e92eb3146" />
-
+<img width="435" height="328" alt="Screenshot 2026-09-23 124351" src="https://github.com/user-attachments/assets/c92d3152-467b-450f-9612-30221447a1b5" />
 
 ---
 
