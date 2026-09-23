@@ -81,7 +81,7 @@ Commit the `CLAUDE.md` file and push it to your GitHub fork so the project instr
 
 #### Screenshot 6 — `CLAUDE.md` visible in your GitHub repository after pushing the commit
 
-Add your screenshot here.
+<img width="1186" height="710" alt="Screenshot 2026-09-23 152147" src="https://github.com/user-attachments/assets/eb0f81a0-d6a0-4338-9e5d-16f8d3e8b2ce" />
 
 ---
 
