@@ -81,18 +81,18 @@ Interact with Claude Code and observe how it performs the Agentic Loop (Gather �
 
 Paste your forked repository URL here:
 
-https://github.com/madhuriveerabathini11/devops-micro-internship-pravinmishra/edit/main/week-02-agentic-ai/assignment-01-setup-agentic-loop.md
+https://github.com/madhuriveerabathini11/Ultimate-Agentic-DevOps-with-Claude-Code
 
 ---
 
 # Completion Checklist
 
-- [ ] Claude Code CLI installed successfully
-- [ ] Claude Code authenticated successfully
-- [ ] Repository forked successfully
-- [ ] Repository cloned and opened in VS Code
-- [ ] All required screenshots added
-- [ ] GitHub repository URL provided
+- [✅] Claude Code CLI installed successfully
+- [✅] Claude Code authenticated successfully
+- [✅] Repository forked successfully
+- [✅] Repository cloned and opened in VS Code
+- [✅] All required screenshots added
+- [✅] GitHub repository URL provided
 
 ---
 
