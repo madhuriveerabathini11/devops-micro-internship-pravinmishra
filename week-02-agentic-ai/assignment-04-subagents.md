@@ -39,14 +39,12 @@ The cost optimizer uses Haiku because it is designed for fast and cost-efficient
 ---
 
 #### 2. Why does the security auditor NOT have Write in its tools list?
-
-Add your answer here...
+The security auditor does not have Write access because its purpose is to inspect and report security issues, not modify files. Removing Write permission follows the principle of least privilege and prevents the agent from accidentally changing or damaging project files.
 
 ---
 
 #### 3. Why does the tf-writer use `inherit` instead of a specific model?
-
-Add your answer here...
+The tf-writer uses inherit so that it automatically uses the model selected by the parent or main agent. This avoids hard-coding a specific model and allows the agent to work with the current model configuration. It also makes the setup more flexible if the model is changed later. 
 
 ---
 
