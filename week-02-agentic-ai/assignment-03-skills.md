@@ -100,7 +100,7 @@ https://github.com/madhuriveerabathini11/Ultimate-Agentic-DevOps-with-Claude-Cod
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+https://lnkd.in/p/dq9E-dRF
 ---
 
 # Completion Checklist
