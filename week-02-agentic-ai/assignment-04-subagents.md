@@ -52,7 +52,7 @@ The tf-writer uses inherit so that it automatically uses the model selected by t
 
 #### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
 
-Add your screenshot here.
+<img width="1323" height="988" alt="Screenshot 2026-09-26 232701" src="https://github.com/user-attachments/assets/6dbf5ab0-4d20-4c6f-b297-3350e8baa7d0" />
 
 ---
 
