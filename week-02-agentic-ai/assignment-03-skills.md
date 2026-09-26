@@ -105,16 +105,16 @@ https://lnkd.in/p/dq9E-dRF
 
 # Completion Checklist
 
-- [ ] `.claude/skills/` folder created with all 4 skill folders
-- [ ] All skill files placed correctly
-- [ ] `tf-plan/SKILL.md` shows correct `allowed-tools` restrictions
-- [ ] `/scaffold-terraform` executed successfully
-- [ ] Terraform files generated inside `terraform/` folder
-- [ ] `terraform init` executed successfully
-- [ ] `/tf-plan` executed and output analyzed by Claude
-- [ ] All required screenshots added
-- [ ] GitHub repository URL included
-- [ ] LinkedIn post URL included
+- [✅] `.claude/skills/` folder created with all 4 skill folders
+- [✅] All skill files placed correctly
+- [✅] `tf-plan/SKILL.md` shows correct `allowed-tools` restrictions
+- [✅] `/scaffold-terraform` executed successfully
+- [✅] Terraform files generated inside `terraform/` folder
+- [✅] `terraform init` executed successfully
+- [✅] `/tf-plan` executed and output analyzed by Claude
+- [✅] All required screenshots added
+- [✅] GitHub repository URL included
+- [✅] LinkedIn post URL included
 
 ---
 
