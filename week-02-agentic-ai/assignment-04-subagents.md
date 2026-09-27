@@ -93,7 +93,7 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 #### Screenshot 6 — The full cost optimization report
 
-Add your screenshot here.
+<img width="1280" height="861" alt="2026-09-27 at 7 21 22 PM" src="https://github.com/user-attachments/assets/b678861d-68f1-4037-86e1-ba98fd976f77" />
 
 ---
 
