@@ -129,15 +129,6 @@ View image
 
 
 
-
-
-
-
-
-<img width="1232" height="936" alt="Screenshot 2026-09-28 222056" src="https://github.com/user-attachments/assets/2530c17b-65f7-424f-9285-a4f94eacaae4" />
-
-
-
 ```
 
 ---
