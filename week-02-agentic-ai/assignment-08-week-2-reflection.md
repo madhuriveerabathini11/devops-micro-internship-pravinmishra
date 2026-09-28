@@ -101,7 +101,35 @@ Your post must include:
 LinkedIn Post Content (copy-paste here):
 
 ```
-Paste your LinkedIn post content here
+🚀 Week 2 Completed — Learning Agentic AI with Claude Code! 🧠
+As part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI, I explored how AI tools can support real-world software development and DevOps workflows.
+As part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI, I explored how AI tools can support real-world software development and DevOps workflows.
+💡 What I learned this week:
+✅ Claude Code: Working with an AI-powered coding assistant.
+✅ Skills: Creating reusable instructions for development tasks.
+✅ Subagents: Understanding how specialized agents handle different responsibilities.
+✅ MCP: Exploring how AI assistants connect with external tools and services.
+✅ Hooks & Permissions: Learning about workflow automation, security checks, and access control.
+✅ Memory: Understanding how Claude Code can retain project-specific information across sessions.
+🎯 My Key Takeaway:
+This week taught me that using AI tools is not just about generating code. It is also about giving clear instructions, automating repetitive tasks, following security practices, and verifying the results.
+I faced some challenges while working with commands and configuration files, but each challenge helped me improve my problem-solving skills and confidence.
+🔥 My Next Step:
+I plan to follow a daily habit of Learn → Practice → Verify → Document to strengthen my technical skills and continue my journey toward becoming an AI/ML and DevOps Engineer.
+📸 Week 2 Assignment Evidence:
+I'm attaching a screenshot from my Week 2 assignment to showcase my hands-on learning experience.
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra.
+
+My graded progress is public: https://lnkd.in/dY9ECvug ·
+
+Start your DevOps journey: https://lnkd.in/dZFE-eCZ
+#DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps #LearningInPublish
+
+View image
+
+
+
+
 ```
 
 ---
