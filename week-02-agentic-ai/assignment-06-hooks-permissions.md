@@ -123,6 +123,9 @@ Prove the logging hook runs after a successful command execution and records Ter
 
 #### Screenshot 8 — Claude running terraform validate successfully
 
+<img width="1257" height="522" alt="Screenshot 2026-09-28 201642" src="https://github.com/user-attachments/assets/c4bd2176-9c2d-4371-b38b-8b098f5616f5" />
+
+
 #### Screenshot 9 — `.claude/deploy.log` showing the logged command
 
 ---
