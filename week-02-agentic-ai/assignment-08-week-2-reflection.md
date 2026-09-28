@@ -91,8 +91,8 @@ Your post must include:
 ### Evidence
 
 #### Screenshot 2 — LinkedIn post published
+<img width="1161" height="1023" alt="Screenshot 2026-09-28 223407" src="https://github.com/user-attachments/assets/8bd8a496-c8e0-47ec-a94c-f5d3e3e502dd" />
 
-Add your screenshot here.
 
 ---
 
