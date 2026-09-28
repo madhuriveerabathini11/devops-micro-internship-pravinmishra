@@ -54,7 +54,7 @@ You can publish your blog on:
 
 Blog Link:
 
-`Add your URL here`
+https://medium.com/@madhuriveerabathini11/reflection-week-2-2c7afb39920f?sharedUserId=madhuriveerabathini11
 
 ---
 
