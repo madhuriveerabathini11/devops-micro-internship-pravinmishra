@@ -26,12 +26,20 @@ An AWS account allows us to access and use Amazon Web Services (AWS) cloud servi
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
 
-
----
+AWS Free Tier allows new and eligible customers to use selected AWS services for free within specified limits.
+It helps beginners practise cloud computing without paying the full price for eligible usage.
+The current Free Tier includes a free plan for up to six months for eligible new customers, while some offers have different durations.
+I must check the service limits and billing details to avoid unexpected charges.
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
-Write your answer here.
+AWS Lambda: Provides 1 million requests per month and 400,000 GB-seconds of compute time per month under its eligible free usage allowance.
+
+Amazon DynamoDB: Offers up to 25 GB of storage and eligible free allowances for database read and write capacity.
+
+Amazon SQS: Offers up to 1 million requests per month under its eligible free usage allowance. 
+AWS Billing
++1
 
 ---
 
