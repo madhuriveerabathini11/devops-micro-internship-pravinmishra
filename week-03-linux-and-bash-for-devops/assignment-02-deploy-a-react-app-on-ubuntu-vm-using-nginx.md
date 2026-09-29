@@ -20,7 +20,7 @@ Install Node.js and npm on the Ubuntu VM and verify the installation.
 
 #### Screenshot 1 — Output of `node -v && npm -v` showing installed versions
 
-Add your screenshot here.
+<img width="1478" height="1011" alt="Screenshot 2026-09-29 155038" src="https://github.com/user-attachments/assets/00d25479-560f-471a-9a4d-c15edf730e40" />
 
 ---
 
