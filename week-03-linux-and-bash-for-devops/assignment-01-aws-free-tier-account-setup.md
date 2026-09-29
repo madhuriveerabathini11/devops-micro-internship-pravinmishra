@@ -20,13 +20,12 @@ Demonstrate understanding of AWS basics and Free Tier usage by answering the fol
 
 #### Question 1 — What is an AWS account, and why do you need it at this stage?
 
-Write your answer here.
+An AWS account allows us to access and use Amazon Web Services (AWS) cloud services. It helps as create and manage cloud resources such as virtual servers, storage, and databases. At this stage, I need an AWS account to learn cloud computing practically and practice DevOps tasks. It also helps me understand how applications are deployed and managed in the cloud.   
 
 ---
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
 
-Write your answer here.
 
 ---
 
