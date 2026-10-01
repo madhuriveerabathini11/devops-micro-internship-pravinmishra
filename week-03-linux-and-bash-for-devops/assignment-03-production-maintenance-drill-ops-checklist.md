@@ -34,7 +34,8 @@ Verify that the deployed React application is reachable from the browser and con
 
 #### Screenshot 3 — Output of `sudo ss -tulpen`
 
-Add your screenshot here.
+<img width="1060" height="925" alt="Screenshot 2026-10-01 233250" src="https://github.com/user-attachments/assets/b5e3564f-2e15-4e9e-b274-1a5a89f5e83e" />
+
 
 ---
 
