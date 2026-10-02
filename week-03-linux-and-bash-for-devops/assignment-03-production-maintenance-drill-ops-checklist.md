@@ -267,19 +267,21 @@ Simulate a real-world Nginx misconfiguration and recover the service safely.
 
 #### Screenshot 1 — Output of `sudo nginx -t` showing the syntax error (broken config)
 
-Add your screenshot here.
+<img width="997" height="180" alt="Screenshot 2026-10-02 131311" src="https://github.com/user-attachments/assets/ef387116-0fde-498d-8b23-973fffa4abd8" />
+
 
 ---
 
 #### Screenshot 2 — Output of `sudo nginx -t` showing syntax ok (fixed config)
 
-Add your screenshot here.
+<img width="938" height="61" alt="Screenshot 2026-10-02 131415" src="https://github.com/user-attachments/assets/27b38753-1b74-4d40-bba6-2126057b655c" />
 
 ---
 
 #### Screenshot 3 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-Add your screenshot here.
+<img width="995" height="326" alt="Screenshot 2026-10-02 131921" src="https://github.com/user-attachments/assets/d51334d5-d7da-4b4e-ab11-04ce76e46c56" />
+
 
 ---
 
@@ -288,8 +290,6 @@ Add your screenshot here.
 Answer the following in your own words:
 
 **1. What caused the configuration failure?**
-
-Write your answer here.
 
 ---
 
