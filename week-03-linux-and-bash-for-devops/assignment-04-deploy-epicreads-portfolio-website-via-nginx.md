@@ -50,7 +50,8 @@ Update the website footer with your deployment details.
 
 #### Screenshot 2 — Nano editor open with the updated footer showing your Full Name, Group, Week, and Date
 
-Add your screenshot here.
+<img width="940" height="242" alt="Screenshot 2026-10-02 205356" src="https://github.com/user-attachments/assets/261aefb2-8f26-4a69-b005-c76e33c1c3be" />
+
 
 ---
 
@@ -64,13 +65,15 @@ Deploy the portfolio website to the Nginx web root.
 
 #### Screenshot 3 — Output of `sudo nginx -t` showing configuration test successful
 
-Add your screenshot here.
+<img width="922" height="145" alt="Screenshot 2026-10-02 205531" src="https://github.com/user-attachments/assets/0ae79f38-bfc2-460b-a775-a0275cf29f3a" />
+
 
 ---
 
 #### Screenshot 4 — Output of `ls /var/www/html` showing deployed website files
 
-Add your screenshot here.
+<img width="940" height="138" alt="Screenshot 2026-10-02 205616" src="https://github.com/user-attachments/assets/f1c68c82-ec1c-42ee-a44f-f4315154db3c" />
+
 
 ---
 
@@ -84,7 +87,8 @@ Verify the deployed website is publicly accessible and the footer contains your 
 
 #### Screenshot 5 — Output of `curl ifconfig.me` showing the server's public IP address
 
-Add your screenshot here.
+<img width="917" height="82" alt="Screenshot 2026-10-02 205705" src="https://github.com/user-attachments/assets/5d7b2d50-de82-4416-bb1b-78c2ab2868a2" />
+
 
 ---
 
