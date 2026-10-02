@@ -186,12 +186,13 @@ Arrays are useful because they allow us to store and manage multiple values toge
 
 **3. What does `"${tools[@]}"` mean?**
 
+"${tools[@]}" is used to access all the elements stored in the tools array. The double quotes help keep each element as a separate item, even if it contains spaces.
 
 ---
 
 **4. What is the purpose of the `for` loop in this script?**
 
-Add your answer here.
+The for loop repeats a set of commands for each item in the array. In this script, it takes each tool name one by one and prints it as part of the checklist.
 
 ---
 
