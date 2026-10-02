@@ -315,13 +315,14 @@ Simulate missing deployment content and recover the application safely.
 
 #### Screenshot 1 — Output of `curl -I http://<public-ip>` showing failure (non-200 response)
 
-Add your screenshot here.
+<img width="1017" height="262" alt="Screenshot 2026-10-02 132951" src="https://github.com/user-attachments/assets/149c83b0-0db8-4e2b-a25f-e9f9ab00d09b" />
 
 ---
 
 #### Screenshot 2 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-Add your screenshot here.
+<img width="986" height="282" alt="Screenshot 2026-10-02 133933" src="https://github.com/user-attachments/assets/64fc28e2-80b7-49c1-97bb-11a74e39c049" />
+
 
 ---
 
@@ -331,19 +332,19 @@ Answer the following in your own words:
 
 **1. What caused the application to break in this scenario?**
 
-Write your answer here
+The application broke because the Nginx configuration was intentionally changed to return a 500 Internal Server Error. This caused the server to return an error instead of serving the application normally.
 
 ---
 
 **2. How did you fix the issue and restore the application?**
 
-Write your answer here.
+I removed the incorrect configuration from the Nginx configuration file. I then tested the configuration using sudo nginx -t and confirmed that the syntax was correct. After reloading Nginx, I used curl -I to verify that the application was responding with 200 OK.
 
 ---
 
 **3. What steps would you take to prevent this kind of issue in real production systems?**
 
-Write your answer here.
+I would test configuration changes before deploying them, use version control and backups, follow a proper deployment process, and monitor the application and server continuously. I would also use staging environments and automated health checks to detect problems before they affect users.
 
 ---
 
