@@ -224,19 +224,21 @@ Ensure the correct React build is deployed and Nginx is serving it properly.
 
 #### Screenshot 1 — Output of `ls -lah /var/www/html | head -n 20`
 
-Add your screenshot here.
+<img width="987" height="367" alt="Screenshot 2026-10-02 125421" src="https://github.com/user-attachments/assets/271bde4e-a23f-410e-8844-d41380da54f2" />
+
 
 ---
 
 #### Screenshot 2 — Output of `grep -R "Deployed by" -n /var/www/html 2>/dev/null | head`
 
-Add your screenshot here.
+<img width="1011" height="931" alt="Screenshot 2026-10-02 125634" src="https://github.com/user-attachments/assets/a420ce3e-fb9c-45fe-bec1-72d7b8c5c865" />
+
 
 ---
 
 #### Screenshot 3 — Output of `grep -n "try_files" /etc/nginx/sites-available/default`
 
-Add your screenshot here.
+<img width="1000" height="135" alt="Screenshot 2026-10-02 125723" src="https://github.com/user-attachments/assets/0f7b2253-a3dc-4291-a2f2-c6cbaae9b8c2" />
 
 ---
 
@@ -245,8 +247,8 @@ Add your screenshot here.
 Answer the following in your own words:
 
 **1. How do you confirm that the correct version of the application is deployed?**
+---
 
-Write your answer here.
 
 ---
 
