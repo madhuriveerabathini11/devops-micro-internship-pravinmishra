@@ -78,19 +78,21 @@ Verify that Nginx is properly installed, running, enabled at boot, and safely co
 
 #### Screenshot 1 — Output of `systemctl status nginx --no-pager`
 
-Add your screenshot here.
+<img width="1036" height="842" alt="Screenshot 2026-10-02 122503" src="https://github.com/user-attachments/assets/1fdf7deb-7c91-484f-a134-b50dc576ef4e" />
+
 
 ---
 
 #### Screenshot 2 — Output of `sudo nginx -t`
 
-Add your screenshot here.
+<img width="997" height="222" alt="Screenshot 2026-10-02 123054" src="https://github.com/user-attachments/assets/c5057967-9da6-4eaf-8f70-4c327f78276d" />
+
 
 ---
 
 #### Screenshot 3 — Output of `sudo ss -lptn '( sport = :80 )'`
 
-Add your screenshot here.
+<img width="1010" height="486" alt="Screenshot 2026-10-02 122900" src="https://github.com/user-attachments/assets/0fe3c3e2-a49a-443d-8273-683c508571c3" />
 
 ---
 
