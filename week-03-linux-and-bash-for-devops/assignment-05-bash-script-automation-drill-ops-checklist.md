@@ -92,12 +92,15 @@ The #!/bin/bash line tells the operating system to use the Bash shell to execute
 
 **2. Why do we use `chmod +x` before running a script?**
 
+We use chmod +x script.sh to give the file execute permission. This allows us to run the script directly using ./script.sh.
 
 ---
 
 **3. What is the difference between running a script using `./script.sh` and `bash script.sh`?**
 
-Add your answer here.
+./script.sh: Runs the script directly. The file must have execute permission, and its shebang specifies the interpreter.
+
+bash script.sh: Runs the script through Bash explicitly. The file does not need execute permission because Bash reads the file and executes its commands.
 
 ---
 
