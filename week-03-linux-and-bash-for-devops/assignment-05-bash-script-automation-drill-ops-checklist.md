@@ -144,6 +144,7 @@ In Bash, we should not use spaces around the = sign because Bash requires the as
 **3. How do you access the value stored inside a Bash variable?**
 
 We use the $ symbol followed by the variable name to access its stored value.
+
 ---
 
 # Task 4 — Arrays & Loops: Tools Checklist Script
@@ -156,13 +157,14 @@ Use arrays and loops to print a checklist of tools used in Bash scripting.
 
 #### Screenshot 1 — Content of `tools-checklist.sh`
 
-Add your screenshot here.
+<img width="746" height="400" alt="Screenshot 2026-10-02 223328" src="https://github.com/user-attachments/assets/dc77939e-3aff-4cd2-8a2a-992864e9e231" />
+
 
 ---
 
 #### Screenshot 2 — Output of `./tools-checklist.sh`
 
-Add your screenshot here.
+<img width="1032" height="297" alt="Screenshot 2026-10-02 223142" src="https://github.com/user-attachments/assets/354cf59b-5a72-4323-8d37-a8166d1ef404" />
 
 ---
 
