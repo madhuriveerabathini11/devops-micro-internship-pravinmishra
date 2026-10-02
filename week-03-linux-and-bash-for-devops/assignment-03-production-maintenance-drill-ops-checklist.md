@@ -52,19 +52,19 @@ Answer the following in your own words:
 
 **1. What proves Nginx is listening on 0.0.0.0:80?**
 
-Write your answer here.
+The output of sudo ss -tulpen shows Nginx listening on 0.0.0.0:80, which means it accepts IPv4 connections on port 80 from any network interface.
 
 ---
 
 **2. What proves SSH is active on port 22?**
 
-Write your answer here.
+The output of sudo ss -tulpen shows the SSH service (sshd) listening on port 22. This indicates that the server is ready to accept SSH connections, subject to firewall and network settings.
 
 ---
 
 **3. Did you find any unexpected open ports? Explain briefly.**
 
-Write your answer here.
+No, I did not find any unexpected open ports. Only the expected ports for SSH (22) and HTTP (80) were open.
 
 ---
 
