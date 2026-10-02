@@ -143,7 +143,7 @@ In Bash, we should not use spaces around the = sign because Bash requires the as
 
 **3. How do you access the value stored inside a Bash variable?**
 
-
+We use the $ symbol followed by the variable name to access its stored value.
 ---
 
 # Task 4 — Arrays & Loops: Tools Checklist Script
