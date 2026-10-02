@@ -20,7 +20,8 @@ Verify the Ubuntu VM and Nginx are ready for deployment.
 
 #### Screenshot 0 — Output of `sudo systemctl status nginx --no-pager` showing Active (running)
 
-Add your screenshot here.
+<img width="1006" height="872" alt="Screenshot 2026-10-02 153556" src="https://github.com/user-attachments/assets/11e5d68c-aa96-4525-9175-895297cb0e6f" />
+
 
 ---
 
