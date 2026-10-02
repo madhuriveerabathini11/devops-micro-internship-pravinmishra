@@ -156,11 +156,13 @@ No errors were found in the logs during my check. An empty error log or no recen
 
 **2. If there were no errors, what does that indicate about the system?**
 
+It indicates that Nginx appears to be running normally without any reported errors during the check. However, further testing is needed to confirm that the website is working correctly.
+
 ---
 
 **3. Based on the access logs, were your curl requests visible in the log entries? What does that prove about traffic flow?**
 
-Write your answer here.
+Yes, my curl requests were visible in the Nginx access logs. This proves that HTTP requests reached the Nginx web server and that their responses were recorded in the access log.
 
 ---
 
