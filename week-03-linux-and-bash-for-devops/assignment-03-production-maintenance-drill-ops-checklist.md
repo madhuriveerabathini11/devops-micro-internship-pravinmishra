@@ -291,19 +291,19 @@ Answer the following in your own words:
 
 **1. What caused the configuration failure?**
 
+The configuration failed because an invalid directive was added to the Nginx configuration file. Nginx did not recognize the directive, so the nginx -t command showed a syntax error.
+
 ---
 
 **2. How did you fix the issue?**
 
-Write your answer here.
+I opened the Nginx configuration file, found the incorrect directive, and removed it. Then I ran sudo nginx -t again to verify the configuration. The test was successful after fixing the error.
 
 ---
 
 **3. How can you avoid this kind of issue in real production systems?**
 
-Write your answer here.
-
----
+In production systems, we should always test configuration changes before applying them. We can use sudo nginx -t, review changes carefully, keep backups or use version control, and apply changes through a controlled deployment process. This helps prevent configuration errors from affecting the live application.
 
 # Task 7 — Web Application Failure Simulation
 
