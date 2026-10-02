@@ -176,25 +176,25 @@ Assess server capacity and detect potential performance or failure risks.
 
 #### Screenshot 1 — Output of `uptime`
 
-Add your screenshot here.
+<img width="883" height="107" alt="Screenshot 2026-10-02 124907" src="https://github.com/user-attachments/assets/1825b47f-4a42-4787-a4b4-5329d83eebb3" />
 
 ---
 
 #### Screenshot 2 — Output of `free -h`
 
-Add your screenshot here.
+<img width="898" height="146" alt="Screenshot 2026-10-02 125005" src="https://github.com/user-attachments/assets/dfbfa58b-27c0-4348-8d0b-90b940aed9a1" />
 
 ---
 
 #### Screenshot 3 — Output of `df -h`
 
-Add your screenshot here.
+<img width="878" height="506" alt="Screenshot 2026-10-02 125046" src="https://github.com/user-attachments/assets/eb18c889-520f-4ffc-9877-250940c418b4" />
 
 ---
 
 #### Screenshot 4 — Output of `sudo du -sh /var/* | sort -h`
+<img width="1010" height="427" alt="image" src="https://github.com/user-attachments/assets/f85d4b5d-205c-4a90-ba35-118239253305" />
 
-Add your screenshot here.
 
 ---
 
@@ -204,13 +204,13 @@ Answer the following in your own words:
 
 **1. Which resource looks most critical right now? (CPU/load, memory, or disk) Explain why.**
 
-Write your answer here.
+CPU/load, memory, and disk usage should be checked to identify the most critical resource. If all usage levels are normal, no resource appears critical at the moment.
 
 ---
 
 **2. What happens if disk becomes 100% full in a production server?**
 
-Write your answer here.
+If the disk becomes 100% full, the server may fail to write logs, save files, or update data. Applications and services may stop working correctly, and the website may become unavailable. Therefore, disk usage should be monitored regularly and unnecessary files should be removed safely.
 
 ---
 
