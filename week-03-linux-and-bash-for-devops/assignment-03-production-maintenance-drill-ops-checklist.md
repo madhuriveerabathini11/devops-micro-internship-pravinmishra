@@ -41,7 +41,8 @@ Verify that the deployed React application is reachable from the browser and con
 
 #### Screenshot 4 — Output of `sudo ufw status`
 
-Add your screenshot here.
+<img width="1041" height="192" alt="Screenshot 2026-10-02 121636" src="https://github.com/user-attachments/assets/03122f82-2f3a-4b91-b9d0-66289e395a8a" />
+
 
 ---
 
