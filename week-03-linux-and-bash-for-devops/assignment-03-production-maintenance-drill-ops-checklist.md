@@ -247,7 +247,12 @@ Ensure the correct React build is deployed and Nginx is serving it properly.
 Answer the following in your own words:
 
 **1. How do you confirm that the correct version of the application is deployed?**
----
+
+
+
+
+I confirm that the correct version of the application is deployed by checking the application version, verifying the latest code changes, and opening the website in a browser to ensure it displays the expected content and works correctly.
+
 
 
 ---
