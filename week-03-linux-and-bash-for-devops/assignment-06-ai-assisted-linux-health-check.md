@@ -386,7 +386,7 @@ Recover the service as the human operator and prove that the system is healthy a
 
 #### Screenshot 19 — `incident-summary.md` showing all required sections and your Full Name
 
-Add your screenshot here.
+<img width="1231" height="982" alt="Screenshot 2026-10-04 134507" src="https://github.com/user-attachments/assets/f97f14c7-da9b-4bc4-bef1-346524bb7b98" />
 
 ---
 
@@ -396,31 +396,30 @@ Answer the following in your own words:
 
 **1. What action did you execute manually?**
 
-Add your answer here.
+I manually restarted the Nginx service using the sudo systemctl restart nginx command to recover the failed service.
 
 ---
 
 **2. What evidence proves that the service recovered?**
 
-Add your answer here.
+The output of systemctl status nginx showed that Nginx was active and running. Also, curl -I http://localhost returned 200 OK, confirming that the web server was responding successfully.
 
 ---
 
 **3. Why is the second triage run necessary?**
 
-Add your answer here.
+The second triage run is necessary to verify that the recovery was successful. It checks the service again and confirms that all health checks pass without any FAIL results.
 
 ---
 
 **4. What could go wrong if an AI agent automatically restarted every failed service?**
-
-Add your answer here.
+If an AI agent restarted every failed service automatically, it could cause data loss, interrupt other services, or make the problem worse without understanding the actual cause of the failure.
 
 ---
 
 **5. In one sentence, explain the difference between using AI as a chatbot and using AI in this agentic workflow.**
 
-Add your answer here.
+A chatbot only provides answers and suggestions, while an agentic AI workflow can inspect the system, run approved commands, analyze results, and help verify recovery under human supervision.
 
 ---
 
@@ -428,51 +427,49 @@ Add your answer here.
 
 Fill in all seven sections below in your own words.
 
-**Full Name:** Add your full name here
-
-**Date:** DD/MM/YYYY
+**Full Name:** Veerabathini Madhuri
+**Date:** 04/10/2026
 
 ---
 
 **1. Reported Symptom**
-
-Add your answer here.
+The Nginx web service was unavailable, and the local website was not responding as expected.
 
 ---
 
 **2. Evidence Collected**
 
-Add your answer here.
+The triage checks showed that Nginx was not active and the web server check failed. After recovery, systemctl status nginx showed Nginx as active and curl -I http://localhost returned 200 OK.
 
 ---
 
 **3. Most Likely Cause**
-
-Add your answer here.
+The most likely cause was that the Nginx service was stopped or inactive, which caused the local web server to become unavailable.
 
 ---
 
 **4. Human-Approved Recovery Action**
 
-Add your answer here.
+After reviewing the triage results, I manually approved and executed the Nginx restart command: sudo systemctl restart nginx.
+
 
 ---
 
 **5. Verification**
 
-Add your answer here.
+Nginx was verified as active and running, and curl -I http://localhost returned 200 OK. The second triage run also completed successfully with no FAIL results.
 
 ---
 
 **6. Safety Decision**
 
-Add your answer here.
+The recovery action was performed manually with human approval instead of allowing the AI agent to restart the service automatically.
 
 ---
 
 **7. Agentic Loop Mapping**
 
-Add your answer here.
+The workflow followed the agentic loop: Observe → Analyze → Decide → Act → Verify.
 
 ---
 
