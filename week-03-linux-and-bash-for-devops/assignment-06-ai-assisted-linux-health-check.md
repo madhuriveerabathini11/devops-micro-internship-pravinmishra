@@ -305,19 +305,20 @@ Create a controlled service failure, gather evidence through Bash, and let Claud
 
 #### Screenshot 13 — Output showing Nginx is inactive and the HTTP request fails
 
-Add your screenshot here.
+<img width="853" height="258" alt="Screenshot 2026-10-04 125422" src="https://github.com/user-attachments/assets/41b9e245-7481-4d5e-b5c3-0a27b4cda440" />
 
 ---
 
 #### Screenshot 14 — `/linux-triage` output showing failed evidence, most likely cause, and a suggested recovery command
 
-Add your screenshot here.
+<img width="883" height="363" alt="Screenshot 2026-10-04 125902" src="https://github.com/user-attachments/assets/6545defc-bc7f-4170-804e-8e82ffb79da6" />
 
 ---
 
 #### Screenshot 15 — `incident-failure-report.txt` showing the failed checks and your Full Name
 
-Add your screenshot here.
+<img width="937" height="441" alt="Screenshot 2026-10-04 130332" src="https://github.com/user-attachments/assets/38e345d4-8e26-4202-90c3-1441b9eb2208" />
+
 
 ---
 
