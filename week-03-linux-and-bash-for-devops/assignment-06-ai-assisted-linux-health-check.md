@@ -207,13 +207,15 @@ Run the Bash script against the healthy server and verify that it creates a repo
 
 #### Screenshot 9 — Output of `./scripts/linux-triage.sh` showing your Full Name and all five check results
 
-Add your screenshot here.
+<img width="467" height="523" alt="Screenshot 2026-10-04 111100" src="https://github.com/user-attachments/assets/94499714-2dc7-4579-9a0d-5ead57a71268" />
+
 
 ---
 
 #### Screenshot 10 — Output showing the captured exit code and final summary
 
-Add your screenshot here.
+<img width="717" height="263" alt="Screenshot 2026-10-04 111311" src="https://github.com/user-attachments/assets/40623046-ff2a-45b2-8144-cfb3935e3e67" />
+
 
 ---
 
@@ -223,25 +225,24 @@ Answer the following in your own words:
 
 **1. What is the overall status of your healthy baseline?**
 
-Add your answer here.
+My healthy baseline status is HEALTHY because the server and its required services are running correctly, and no major issues were found during the health checks.
 
 ---
 
 **2. Which exact Linux evidence proves the application is serving traffic?**
 
-Add your answer here.
+The output of curl http://localhost shows that the application is responding to HTTP requests. The sudo ss -tulnp command can also show whether the application is listening on its required port.
 
 ---
 
 **3. Did your script return exit code 0 or 1? Explain why.**
 
-Add your answer here.
+My script returned exit code 0 because all the health checks passed and the server was healthy. Exit code 0 indicates success, while a non-zero exit code indicates a warning, failure, or another issue depending on how the script is designed.
 
 ---
 
 **4. What is the difference between a warning and a failure in this script?**
-
-Add your answer here.
+A warning (WARN) means a potential problem was found that needs attention, but the server may still be working. A failure (FAIL) means a serious problem was detected, such as a required service being stopped or the application not responding. Warnings help us identify issues early, while failures indicate that corrective action may be needed immediately.
 
 ---
 
@@ -255,7 +256,7 @@ Turn the Bash script into a reusable, manually invoked Agentic AI workflow.
 
 #### Screenshot 11 — `SKILL.md` showing the frontmatter, allowed tool restrictions, and safety rules
 
-Add your screenshot here.
+<img width="865" height="796" alt="Screenshot 2026-10-04 112133" src="https://github.com/user-attachments/assets/3db59bef-0365-40d6-9252-7e197afd6448" />
 
 ---
 
