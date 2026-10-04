@@ -99,7 +99,9 @@ Use Claude Code to inspect the environment and produce a read-only plan before c
 
 #### Screenshot 4 — Claude Code showing the five-check plan and read-only inspection results
 
-Add your screenshot here.
+<img width="1197" height="972" alt="Screenshot 2026-10-04 082231" src="https://github.com/user-attachments/assets/f701f3a6-fcb3-4153-865b-325a163a6bd2" />
+<img width="1075" height="927" alt="Screenshot 2026-10-04 082414" src="https://github.com/user-attachments/assets/9ab333d3-4317-47a0-9dbf-8f268f3a1e1f" />
+
 
 ---
 
@@ -109,19 +111,19 @@ Answer the following in your own words:
 
 **1. Which part of this task represents the Gather phase?**
 
-Add your answer here.
+The Gather phase is when Claude Code collects information about the project and environment using read-only commands such as pwd, ls -la, bash --version, and git status. This helps understand the current environment before planning the script.
 
 ---
 
 **2. Did Claude follow the instruction not to create files? How did you verify this?**
 
-Add your answer here.
+Yes, Claude followed the instruction and did not create or modify any files. I verified this by checking the project directory and using git status to see whether any files had changed.
 
 ---
 
 **3. Why is planning before coding useful in DevOps automation?**
 
-Add your answer here.
+Planning before coding helps us understand the environment, identify possible problems, and choose the correct commands. It reduces errors, prevents unwanted changes, and makes automation safer, more reliable, and easier to maintain.
 
 ---
 
@@ -135,13 +137,13 @@ Create one Bash script that gathers consistent Linux and Nginx health evidence.
 
 #### Screenshot 5 — Top section of `linux-triage.sh` showing variables, thresholds, and the checks array
 
-Add your screenshot here.
+<img width="900" height="971" alt="Screenshot 2026-10-04 082900" src="https://github.com/user-attachments/assets/89703ef3-8776-4b8a-90db-e17d571ece2c" />
 
 ---
 
 #### Screenshot 6 — Middle section showing check functions and conditionals
 
-Add your screenshot here.
+<img width="921" height="972" alt="Screenshot 2026-10-04 083344" src="https://github.com/user-attachments/assets/1a1df36d-58fe-4b3d-b086-a177165a58b6" />
 
 ---
 
