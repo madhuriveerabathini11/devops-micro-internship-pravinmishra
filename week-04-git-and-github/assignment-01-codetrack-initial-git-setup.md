@@ -35,7 +35,7 @@ Create a `CodeTrack` project folder and initialize it as a Git repository.
 
 **1. What is the `.git` folder, and why does it matter?**
 
-Add your answer here.
+The .git folder is a hidden folder created when we run git init. It stores important Git information such as commit history, branches, configuration, and tracking data. It matters because it turns the project folder into a Git repository, allowing us to track changes, create commits, and manage the project using Git.
 
 ---
 
