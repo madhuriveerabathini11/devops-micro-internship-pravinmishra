@@ -481,13 +481,13 @@ The workflow followed the agentic loop: Observe → Analyze → Decide → Act �
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+https://lnkd.in/p/dKygmuDv
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+<img width="1026" height="953" alt="Screenshot 2026-10-04 140514" src="https://github.com/user-attachments/assets/aef71c48-dbc7-4c9f-8cf0-edf7e7cca1d1" />
 
 ---
 
