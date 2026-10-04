@@ -328,31 +328,31 @@ Answer the following in your own words:
 
 **1. Which three checks failed?**
 
-Add your answer here.
+The three checks that failed were the Nginx service status, the HTTP response check, and the Nginx listening port check.
 
 ---
 
 **2. What evidence supports the conclusion that Nginx is unavailable?**
 
-Add your answer here.
+The Nginx service was not running, the HTTP request failed, and no process was listening on the expected port. These results show that Nginx was unavailable.
 
 ---
 
 **3. Did Claude execute the recovery command? Why is that important?**
 
-Add your answer here.
+No, Claude did not execute the recovery command. It only reported the problems and suggested a recovery action. This is important because it keeps the process safe and ensures that a human can review and approve changes before they are made to the system.
 
 ---
 
 **4. Which phase of the Agentic Loop is represented by the Bash report?**
 
-Add your answer here.
+The Bash report represents the Observation phase because it collects and reports the server's current status, including failed health checks
 
 ---
 
 **5. Which phase is represented by Claude's explanation?**
 
-Add your answer here.
+Claude's explanation represents the Reasoning phase because it analyzes the Bash report, identifies the problems, and explains the possible recovery action.
 
 ---
 
