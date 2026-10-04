@@ -366,7 +366,8 @@ Recover the service as the human operator and prove that the system is healthy a
 
 #### Screenshot 16 — Output showing Nginx is active and `curl -I http://localhost` returns 200 OK
 
-Add your screenshot here.
+<img width="1017" height="293" alt="Screenshot 2026-10-04 131206" src="https://github.com/user-attachments/assets/393b7adc-b489-41bd-82ce-ea1396de6bc9" />
+
 
 ---
 
