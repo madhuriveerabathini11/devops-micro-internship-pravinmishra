@@ -149,7 +149,9 @@ Create one Bash script that gathers consistent Linux and Nginx health evidence.
 
 #### Screenshot 7 — Bottom section showing the loop, summary function, and exit behavior
 
-<img width="331" height="802" alt="Screenshot 2026-10-04 083744" src="https://github.com/user-attachments/assets/cefa2279-e9ed-4612-812d-4bd28c956501" />
+
+
+<img width="931" height="972" alt="Screenshot 2026-10-04 083753" src="https://github.com/user-attachments/assets/983bc835-a4f4-404e-b630-cba982cc662a" />
 
 
 ---
@@ -167,31 +169,31 @@ Answer the following in your own words:
 
 **1. What is stored in the checks array?**
 
-Add your answer here.
+The checks array stores the names of the health-check functions that are used to check the server's status.
 
 ---
 
 **2. How does the `for` loop use that array?**
 
-Add your answer here.
+The for loop goes through each function name in the checks array one by one and runs the health checks to identify any problems.
 
 ---
 
 **3. Why are the health checks separated into functions?**
 
-Add your answer here.
+The health checks are separated into functions to make the script easier to read, understand, test, and maintain. Each function checks a specific part of the server, making it easier to find and fix problems.
 
 ---
 
 **4. What is the purpose of `$(...)` in this script?**
 
-Add your answer here.
+The $(...) syntax is called command substitution. It runs a command and stores its output so that the script can use that result in a variable or another command.
 
 ---
 
 **5. Why does the script use different exit codes for HEALTHY, WARN, and FAIL?**
 
-Add your answer here.
+The script uses different exit codes to show the server's health status clearly. HEALTHY means everything is working correctly, WARN means there may be a problem that needs attention, and FAIL means a serious problem was found. These codes help users and automation tools understand the result and decide what action to take.
 
 ---
 
