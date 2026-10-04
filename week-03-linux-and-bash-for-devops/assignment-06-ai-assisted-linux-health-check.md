@@ -495,8 +495,7 @@ https://lnkd.in/p/dKygmuDv
 
 Paste the URL of your GitHub folder or repository containing the assignment files here:
 
-https://github.com/madhuriveerabathini11/devops-micro-internship-pravinmishra/week-03-linux-and-bash-for-devops
-
+https://github.com/madhuriveerabathini11/devops-micro-internship-pravinmishra/edit/main/week-03-linux-and-bash-for-devops/assignment-06-ai-assisted-linux-health-check.md
 
 ---
 
