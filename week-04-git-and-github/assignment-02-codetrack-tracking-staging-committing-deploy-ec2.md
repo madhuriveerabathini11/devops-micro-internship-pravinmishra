@@ -20,7 +20,7 @@ Confirm that Git works and that you are inside the correct `CodeTrack` repositor
 
 #### Screenshot 1 — Output of `pwd` showing you're inside `CodeTrack`
 
-Add your screenshot here.
+<img width="1148" height="217" alt="Screenshot 2026-10-04 194445" src="https://github.com/user-attachments/assets/7dab72cd-9eea-4edd-9360-aa515a2942f2" />
 
 ---
 
