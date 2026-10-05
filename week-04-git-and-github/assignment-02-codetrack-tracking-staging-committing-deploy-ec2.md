@@ -116,7 +116,7 @@ Follow the instruction comment inside `index.html` to update the Student Name an
 
 #### Screenshot 9 — Browser showing the updated page with your Student Name and Group Name visible
 
-<img width="835" height="411" alt="Screenshot 2026-10-05 211807" src="https://github.com/user-attachments/assets/8e8587fc-7037-4e7b-9ac6-f6d151b5ed2d" />
+<img width="641" height="428" alt="Screenshot 2026-10-05 213422" src="https://github.com/user-attachments/assets/0bfee107-c1ae-454b-93fb-3067abf232e7" />
 
 
 ---
@@ -164,7 +164,7 @@ Install and start Nginx on your EC2 instance, then copy `index.html` and `style.
 
 #### Screenshot 15 — Browser showing the CodeTrack site loaded at `http://<EC2_PUBLIC_IP>`, with your Full Name and Group Name visible
 
-<img width="835" height="411" alt="Screenshot 2026-10-05 211807" src="https://github.com/user-attachments/assets/8427ebf3-40db-4146-83d2-c9a6ccf19414" />
+<img width="641" height="428" alt="Screenshot 2026-10-05 213422" src="https://github.com/user-attachments/assets/b0b02f6d-6339-4adc-b49d-d1a742755a23" />
 
 
 ---
