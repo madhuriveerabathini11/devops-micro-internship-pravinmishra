@@ -20,7 +20,8 @@ Start from a clean default branch (`main` or `master`) and confirm the repositor
 
 #### Screenshot 1 — Output of `git status` and `git branch` showing a clean status and the default branch checked out
 
-Add your screenshot here.
+<img width="850" height="178" alt="Screenshot 2026-10-06 200757" src="https://github.com/user-attachments/assets/42a213aa-dde1-47d6-a9d7-5e54081f0cf3" />
+
 
 ---
 
@@ -34,7 +35,7 @@ Create a branch named exactly `feature/contact-page` and switch to it.
 
 #### Screenshot 2 — Output of `git checkout -b feature/contact-page` and `git branch` showing `* feature/contact-page`
 
-Add your screenshot here.
+<img width="983" height="185" alt="Screenshot 2026-10-06 201008" src="https://github.com/user-attachments/assets/6e47a0f6-e181-4d98-a0ff-fa919b899e52" />
 
 ---
 
@@ -48,19 +49,19 @@ Create `contact.html` with the provided content and commit it alone using the me
 
 #### Screenshot 3 — Output of `ls` showing `contact.html`
 
-Add your screenshot here.
+<img width="962" height="260" alt="Screenshot 2026-10-06 201249" src="https://github.com/user-attachments/assets/c7f4abd4-c860-4723-b5d6-749adf65d1ba" />
+
 
 ---
 
 #### Screenshot 4 — Output of `git commit`
-
-Add your screenshot here.
+<img width="988" height="122" alt="Screenshot 2026-10-06 201654" src="https://github.com/user-attachments/assets/58c15dc6-8d26-42cb-b6d4-ce3cbcee4ebd" />
 
 ---
 
 #### Screenshot 5 — Output of `git log --oneline -3` showing the new commit
+<img width="986" height="131" alt="Screenshot 2026-10-06 201824" src="https://github.com/user-attachments/assets/5339c01f-2a74-4a25-afaa-868d952d3dc9" />
 
-Add your screenshot here.
 
 ---
 
@@ -74,13 +75,13 @@ Add the provided Contact Page link to `index.html` and commit it separately usin
 
 #### Screenshot 6 — Output of `git status` showing `index.html` as modified before staging
 
-Add your screenshot here.
+<img width="978" height="286" alt="Screenshot 2026-10-06 202145" src="https://github.com/user-attachments/assets/bf12c406-af15-4a2d-bf54-589026736962" />
+
 
 ---
 
 #### Screenshot 7 — Output of `git commit`
 
-Add your screenshot here.
 
 ---
 
