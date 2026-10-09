@@ -88,7 +88,7 @@ Add the provided Contact Page link to `index.html` and commit it separately usin
 
 #### Screenshot 8 — Browser showing the Contact Page link on the homepage while on `feature/contact-page`
 
-Add your screenshot here.
+<img width="872" height="516" alt="Screenshot 2026-10-09 091330" src="https://github.com/user-attachments/assets/e96f51ff-2856-452c-bb2c-abcc40af99d2" />
 
 ---
 
@@ -109,7 +109,8 @@ Switch back to the default branch and confirm that `contact.html` and the Contac
 
 #### Screenshot 10 — Browser showing the homepage on the default branch with no Contact Page link
 
-Add your screenshot here.
+<img width="851" height="522" alt="Screenshot 2026-10-09 091056" src="https://github.com/user-attachments/assets/de250957-4809-43c1-9599-8451f8d29cce" />
+
 
 ---
 
@@ -136,7 +137,7 @@ Merge `feature/contact-page` into your default branch and confirm the Contact pa
 
 #### Screenshot 13 — Browser showing the Contact page opened from the homepage link on the default branch
 
-Add your screenshot here.
+![Uploading Screenshot 2026-10-09 091453.png…]()
 
 ---
 
