@@ -27,7 +27,8 @@ Confirm that you have a working GitHub account and can access your GitHub dashbo
 
 #### Screenshot 2 (Optional but Recommended) — Your GitHub profile with `https://github.com/<username>` visible in the browser address bar
 
-Add your screenshot here.
+<img width="1901" height="677" alt="Screenshot 2026-10-09 092020" src="https://github.com/user-attachments/assets/28495b84-3c96-4f53-b3e4-09e6c9cd3dda" />
+
 
 ---
 
