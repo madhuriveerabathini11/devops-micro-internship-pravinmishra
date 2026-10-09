@@ -85,19 +85,19 @@ Add a professional bio to your GitHub profile — and optionally your location, 
 
 Paste your GitHub profile URL here:
 
-`Add your URL here`
+https://github.com/madhuriveerabathini11/devops-micro-internship-pravinmishra/tree/main/week-04-git-and-github
 
 ---
 
 # Completion Checklist
 
-- [ ] GitHub account created or existing account confirmed (Screenshot 1)
-- [ ] Trending repositories explored (Screenshot 3)
-- [ ] At least one repository starred (Screenshot 4)
-- [ ] At least one public repository forked (Screenshot 5)
-- [ ] Professional bio added to your GitHub profile (Screenshot 6)
-- [ ] GitHub profile URL included
-- [ ] No passwords, codes, or authentication secrets exposed
+- [✅] GitHub account created or existing account confirmed (Screenshot 1)
+- [✅] Trending repositories explored (Screenshot 3)
+- [✅] At least one repository starred (Screenshot 4)
+- [✅] At least one public repository forked (Screenshot 5)
+- [✅] Professional bio added to your GitHub profile (Screenshot 6)
+- [✅] GitHub profile URL included
+- [✅] No passwords, codes, or authentication secrets exposed
 
 ---
 
