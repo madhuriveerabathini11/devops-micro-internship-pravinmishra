@@ -123,7 +123,7 @@ Open a Pull Request from `feature-readme-update` on your fork to `main` on the u
 
 Paste your Pull Request URL here:
 
-madhuriveerabathini11:patch-1
+https://github.com/pravinmishraaws/devops-micro-internship-interviews/pull/489
 
 ---
 
