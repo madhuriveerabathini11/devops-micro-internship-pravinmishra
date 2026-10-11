@@ -92,6 +92,7 @@ Fetch and merge `upstream/main` into your local default branch, rebase your feat
 
 #### Screenshot 7 — Your fork on GitHub showing `feature-readme-update` in the branch selector or a "Compare & pull request" banner
 
+<img width="1395" height="963" alt="Screenshot 2026-10-11 220526" src="https://github.com/user-attachments/assets/03bc734f-9626-4648-814a-9f0c75636ca3" />
 
 
 ---
