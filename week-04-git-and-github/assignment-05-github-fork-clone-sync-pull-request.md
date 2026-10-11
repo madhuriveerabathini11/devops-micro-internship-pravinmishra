@@ -107,13 +107,15 @@ Open a Pull Request from `feature-readme-update` on your fork to `main` on the u
 
 #### Screenshot 8 — Pull Request creation page showing the correct base repository, base branch, head repository, compare branch, and title
 
-Add your screenshot here.
+<img width="1326" height="182" alt="Screenshot 2026-10-11 221541" src="https://github.com/user-attachments/assets/41f2f042-b549-491b-a530-831f2e22c4f9" />
+
 
 ---
 
 #### Screenshot 9 — Successfully created Pull Request page with the PR number visible
 
-Add your screenshot here.
+<img width="1296" height="947" alt="Screenshot 2026-10-11 221422" src="https://github.com/user-attachments/assets/334b09a1-2ed4-49d9-ab29-27540f2a0e02" />
+
 
 ---
 
@@ -121,7 +123,7 @@ Add your screenshot here.
 
 Paste your Pull Request URL here:
 
-`Add your URL here`
+madhuriveerabathini11:patch-1
 
 ---
 
