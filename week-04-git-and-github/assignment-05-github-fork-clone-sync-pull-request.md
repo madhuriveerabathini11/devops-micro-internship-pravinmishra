@@ -135,13 +135,14 @@ https://github.com/pravinmishraaws/devops-micro-internship-interviews/pull/489
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+https://lnkd.in/p/dF7zrgZF
 
 ---
 
 #### Screenshot — LinkedIn post showing your successfully created Pull Request
 
-Add your screenshot here.
+<img width="1015" height="920" alt="Screenshot 2026-10-11 223357" src="https://github.com/user-attachments/assets/fa7634ec-4028-4b9b-83ad-05e50d910e08" />
+
 
 ---
 
