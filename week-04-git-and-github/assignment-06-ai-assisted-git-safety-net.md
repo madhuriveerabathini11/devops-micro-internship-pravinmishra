@@ -172,13 +172,14 @@ Remove the secret and debug statement, then prove both gates now pass clean.
 
 #### Screenshot 7 — `git commit` succeeding after the fix (no BLOCKED message)
 
-Add your screenshot here.
+<img width="1052" height="251" alt="Screenshot 2026-10-13 222639" src="https://github.com/user-attachments/assets/3b0dfcea-6e51-4272-98b9-0737be820be4" />
+
 
 ---
 
 #### Screenshot 8 — Second `/pr-ready` run showing a clean risk report and a drafted PR title + description
 
-Add your screenshot here.
+<img width="1133" height="382" alt="Screenshot 2026-10-13 222915" src="https://github.com/user-attachments/assets/197a27a8-0a98-4357-94e6-fe000c032ac2" />
 
 ---
 
@@ -186,7 +187,7 @@ Add your screenshot here.
 
 **1. What exactly did you change to satisfy the pre-commit hook?**
 
-Add your answer here.
+I replaced the fake hardcoded secret containing the "AKIA" prefix with a safe placeholder value. This satisfied the pre-commit hook by removing the pattern that triggered the secret detection rule.
 
 ---
 
