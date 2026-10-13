@@ -49,7 +49,8 @@ On your own fork of this repository (the one you've been submitting your DMI wor
 
 #### Screenshot 1 — Output of  `git status` showing the staged file on feature/ai-pr-ready
 
-Add your screenshot here.
+<img width="1073" height="865" alt="Screenshot 2026-10-11 225319" src="https://github.com/user-attachments/assets/7cd4a420-d821-4d5b-90d1-cc2ef4c47ef4" />
+
 
 ---
 
@@ -57,7 +58,7 @@ Add your screenshot here.
 
 **1. Why does this assignment use an obviously fake key instead of a real one?**
 
-Add your answer here.
+An obviously fake key is used to practice identifying hardcoded secrets without exposing real sensitive information. Using a real key could lead to security risks, unauthorized access, or misuse of resources. The fake key helps us learn secure coding practices safely.
 
 ---
 
@@ -71,7 +72,8 @@ Create a tracked, shareable pre-commit hook that blocks a commit containing secr
 
 #### Screenshot 2 — `hooks/pre-commit` open in VS Code showing the full script
 
-Add your screenshot here.
+<img width="882" height="347" alt="Screenshot 2026-10-13 211349" src="https://github.com/user-attachments/assets/3c4a32d1-73f2-4ca3-8d77-ba5e6f3d8810" />
+
 
 ---
 
