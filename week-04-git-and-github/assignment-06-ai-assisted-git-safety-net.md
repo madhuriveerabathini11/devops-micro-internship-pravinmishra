@@ -108,7 +108,7 @@ Attempt to commit the staged file from Task 1 and show the hook rejecting it.
 
 #### Screenshot 4 — Terminal showing `git commit` rejected with the hook's "BLOCKED" message naming the exact file
 
-Add your screenshot here.
+<img width="873" height="93" alt="Screenshot 2026-10-13 213328" src="https://github.com/user-attachments/assets/d4d4ecc2-def9-40f0-9d84-6bd325d460c0" />
 
 ---
 
@@ -116,13 +116,13 @@ Add your screenshot here.
 
 **1. Which line in `hooks/pre-commit` matched your fake key, and why did it match?**
 
-Add your answer here.
+The line checking for the AKIA prefix matched because the fake key looked like an AWS access key.
 
 ---
 
 **2. Could this hook have caught a poorly-named variable that stores a secret without the `AKIA` prefix? What does that tell you about the limits of a fixed rule like this?**
 
-Add your answer here.
+No, because the hook checks only specific patterns. This shows that fixed rules cannot detect every type of secret.
 
 ---
 
