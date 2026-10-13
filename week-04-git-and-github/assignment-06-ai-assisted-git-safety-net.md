@@ -35,7 +35,7 @@ Confirm you are working in your own fork, then create a dedicated branch for thi
 
 **1. Why create a dedicated branch instead of doing this work on main?**
 
-Add your answer here.
+A dedicated branch keeps changes separate from main and helps avoid affecting the main project until the changes are reviewed.
 
 ---
 
@@ -72,14 +72,15 @@ Create a tracked, shareable pre-commit hook that blocks a commit containing secr
 
 #### Screenshot 2 — `hooks/pre-commit` open in VS Code showing the full script
 
-<img width="882" height="347" alt="Screenshot 2026-10-13 211349" src="https://github.com/user-attachments/assets/3c4a32d1-73f2-4ca3-8d77-ba5e6f3d8810" />
+<img width="1142" height="576" alt="Screenshot 2026-10-13 212429" src="https://github.com/user-attachments/assets/0a7556c5-3ce4-427b-b7a9-abb631adabc3" />
 
 
 ---
 
 #### Screenshot 3 — Output of `git config core.hooksPath` confirming it points to `hooks`
 
-Add your screenshot here.
+<img width="882" height="347" alt="Screenshot 2026-10-13 211349" src="https://github.com/user-attachments/assets/3c4a32d1-73f2-4ca3-8d77-ba5e6f3d8810" />
+
 
 ---
 
@@ -87,13 +88,13 @@ Add your screenshot here.
 
 **1. Why is `hooks/pre-commit` tracked in the repo instead of living only in `.git/hooks/`?**
 
-Add your answer here.
+It is tracked in the repo so everyone can use the same hook when they clone the project.
 
 ---
 
 **2. Compare this to `PreToolUse` from Week 2 Assignment 6. What does each one intercept, and what do they have in common?**
 
-Add your answer here.
+pre-commit checks changes before a Git commit, while PreToolUse checks actions before a tool runs. Both help prevent mistakes and improve safety.
 
 ---
 
