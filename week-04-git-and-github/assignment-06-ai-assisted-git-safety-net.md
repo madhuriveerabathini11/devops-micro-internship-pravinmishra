@@ -143,7 +143,8 @@ Create a manually invoked Claude Code skill that reads your staged changes and p
 
 #### Screenshot 6 — `/pr-ready` output while the risky file is still staged, showing it flagged the secret and/or debug statement
 
-Add your screenshot here.
+<img width="906" height="597" alt="Screenshot 2026-10-13 221842" src="https://github.com/user-attachments/assets/a4846a1f-9136-4ef0-a306-9c972017cf73" />
+
 
 ---
 
@@ -151,13 +152,13 @@ Add your screenshot here.
 
 **1. Why does `/pr-ready` have `Bash` and `Read` but not `Write`?**
 
-Add your answer here.
+"Bash" allows the skill to run Git commands, and "Read" allows it to inspect files and review staged changes. It does not have "Write" because it should only check and report problems without modifying files. This keeps the developer in control of changes.
 
 ---
 
 **2. The pre-commit hook and `/pr-ready` both looked at the same staged diff. Did they flag the same things? What did one catch that the other didn't?**
 
-Add your answer here.
+No, they did not necessarily flag the same things. The pre-commit hook checks for specific patterns, such as a fake secret with an "AKIA" prefix. The "/pr-ready" skill performs a broader review and can identify issues such as leftover debug statements and other code-quality problems. This shows that automated hooks and AI reviews complement each other.
 
 ---
 
