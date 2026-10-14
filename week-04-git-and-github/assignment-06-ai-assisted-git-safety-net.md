@@ -203,14 +203,14 @@ Push your branch and open a real Pull Request, using `/pr-ready`'s drafted title
 
 #### Screenshot 9 — Your Pull Request showing the base repository is your own fork, plus the title and description, with the `/pr-ready` draft visible for comparison (paste it in the PR conversation or your notes below)
 
-<img width="1312" height="175" alt="Screenshot 2026-10-13 223547" src="https://github.com/user-attachments/assets/d37e906a-1086-4f10-ba57-f4bcc38e3fca" />
-
+<img width="1152" height="150" alt="Screenshot 2026-10-14 205909" src="https://github.com/user-attachments/assets/34dc13b0-35e2-448e-af14-24123842d51d" />
 
 ---
 
 #### PR Link
 
-Add your PR URL here...
+https://github.com/pravinmishraaws/devops-micro-internship-pravinmishra/pull/273
+
 
 ---
 
@@ -218,19 +218,22 @@ Add your PR URL here...
 
 **1. What, if anything, did you edit in the AI's drafted PR description before using it? Why?**
 
-Add your answer here.
+I reviewed the AI-generated PR description and edited it to accurately describe my changes. I ensured that the summary, testing details, and security notes matched the actual work completed in my assignment.
 
 ---
 
 **2. If you had blindly copy-pasted the AI's draft without reading it, what could go wrong?**
 
-Add your answer here.
+The AI might include incorrect information, mention changes I did not make, or claim tests passed when they were not performed. This could mislead reviewers and reduce trust in my work. Therefore, I should always review and verify AI-generated content before using it.
+
+
 
 ---
 
 **3. Why does this PR need to target your own fork instead of the shared upstream repository?**
 
-Add your answer here.
+
+This assignment is for practice, so the Pull Request must target my own fork rather than the shared upstream repository. This prevents my experimental changes, such as the fake secret and debug statement, from affecting the original project or other students' work.
 
 ---
 
@@ -244,31 +247,34 @@ Explain this assignment's workflow using the same Gather → Analyze → Human A
 
 **1. Which step(s) represent Gather?**
 
-Add your answer here.
+Gather is the step where the pre-commit hook checks the staged changes and collects information about the files being committed. The /pr-ready skill also gathers information by reading the staged diff and relevant repository files.
 
 ---
 
 **2. Which step(s) represent Analyze?**
 
-Add your answer here.
+Analyze is the step where the pre-commit hook applies fixed rules to detect possible secrets and the /pr-ready AI skill reviews the staged changes for security issues, debug statements, and other problems.
+
+
 
 ---
 
 **3. Which step is Human Act, and why must a human — not Claude — run `git commit`, `git push`, and open the PR?**
 
-Add your answer here.
+Human Act is the step where I review the findings, fix the problems, and decide whether to commit, push, and open the Pull Request. A human must control these actions to ensure that the changes are correct, secure, and intentional before sharing them with others.
+
 
 ---
 
 **4. Which step is Verify?**
 
-Add your answer here.
+Verify is the step where I check the final Git status, review the staged changes, confirm that the security checks behave as expected, and inspect the Pull Request on GitHub to ensure the correct repository, branch, title, and description are used.
 
 ---
 
 **5. In one or two sentences: why do you need *both* the fixed-rule pre-commit hook and the AI skill? Isn't one enough?**
 
-Add your answer here.
+The pre-commit hook quickly and consistently detects specific patterns, such as hardcoded secrets, but it cannot understand every possible problem. The AI skill can analyze the context and identify broader issues, so using both provides stronger protection than relying on either one alone.
 
 ---
 
