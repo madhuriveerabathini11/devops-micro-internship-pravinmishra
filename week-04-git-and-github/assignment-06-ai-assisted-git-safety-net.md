@@ -288,7 +288,7 @@ Publish a LinkedIn post summarizing what you built and what you learned about co
 
 #### LinkedIn Post URL
 
-Add your LinkedIn post URL here...
+https://lnkd.in/p/de3xEzQs
 
 ---
 
@@ -296,9 +296,14 @@ Add your LinkedIn post URL here...
 
 Add 3-5 bullet points on what you learned this week.
 
--
--
--
+-Learned how to create and configure Git pre-commit hooks to detect hardcoded secrets and oversized files before committing.
+
+-Learned how to build a restricted Claude Code /pr-ready skill to review staged changes and draft Pull Request descriptions.
+
+-Understood the difference between rule-based security checks and AI-assisted code reviews.
+
+-Practiced Git branching, staging, committing, and preparing Pull Requests using GitHub.
+
 
 ---
 
