@@ -73,13 +73,15 @@ Locate the project list and open a project's Board or Backlog, and view Project 
 
 #### Screenshot 4 — "View all projects" page showing at least one project
 
-Add your screenshot here.
+<img width="1412" height="818" alt="Screenshot 2026-10-21 214539" src="https://github.com/user-attachments/assets/c013c859-6568-4e03-80d6-d1187bc7a3ce" />
+
 
 ---
 
 #### Screenshot 5 — Opened project showing either the Board or Backlog screen
 
-Add your screenshot here.
+<img width="1912" height="707" alt="Screenshot 2026-10-21 214753" src="https://github.com/user-attachments/assets/36e75ffc-43fd-45a4-9f62-d6524ad2a486" />
+
 
 ---
 
@@ -95,13 +97,13 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 1: Jira Software Cloud account created or existing account accessed (Screenshot 1)
-- [ ] Task 2: Email verification completed, or a Google sign-in note included (Screenshot 2 or Notes)
-- [ ] Task 3: Professional profile updated with full name, role/title, and bio (Screenshot 3)
-- [ ] Task 4: Projects page, Board or Backlog, and Project settings explored without making changes (Screenshots 4 & 5)
-- [ ] No Jira issues created
-- [ ] Full Name visible in required screenshots
-- [ ] No sensitive data exposed
+- [✅] Task 1: Jira Software Cloud account created or existing account accessed (Screenshot 1)
+- [✅] Task 2: Email verification completed, or a Google sign-in note included (Screenshot 2 or Notes)
+- [✅] Task 3: Professional profile updated with full name, role/title, and bio (Screenshot 3)
+- [✅] Task 4: Projects page, Board or Backlog, and Project settings explored without making changes (Screenshots 4 & 5)
+- [✅] No Jira issues created
+- [✅] Full Name visible in required screenshots
+- [✅] No sensitive data exposed
 
 ---
 
