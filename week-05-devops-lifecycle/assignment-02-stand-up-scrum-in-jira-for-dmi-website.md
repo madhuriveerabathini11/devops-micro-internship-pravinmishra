@@ -49,7 +49,8 @@ Create all six required Stories (S1–S6) under the Epic, assign every Story to 
 
 #### Screenshot 3 — Backlog showing the Epic and all six Stories under it
 
-Add your screenshot here.
+<img width="617" height="635" alt="Screenshot 2026-10-21 220947" src="https://github.com/user-attachments/assets/1d3368e7-4105-490a-8371-95daa702e528" />
+
 
 ---
 
