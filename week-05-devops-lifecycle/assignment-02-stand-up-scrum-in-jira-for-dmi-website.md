@@ -57,7 +57,7 @@ Create all six required Stories (S1–S6) under the Epic, assign every Story to 
 
 #### Screenshot 4 — One opened Story showing its Story point estimate, acceptance criteria, and label
 
-Add your screenshot here.
+<img width="920" height="456" alt="Screenshot 2026-10-22 195210" src="https://github.com/user-attachments/assets/318badfb-7d0b-45e9-9a4b-e924f312c2a8" />
 
 ---
 
