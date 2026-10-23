@@ -35,7 +35,7 @@ Create the Epic `Polish DMI Website UI & Deploy` to group the website UI and dep
 
 #### Screenshot 2 — Backlog showing the Epic panel enabled and the Epic visible
 
-<img width="890" height="671" alt="Screenshot 2026-10-22 200558" src="https://github.com/user-attachments/assets/7ce8116b-ded4-4356-8200-260300706cd0" />
+<img width="942" height="445" alt="Screenshot 2026-10-23 142935" src="https://github.com/user-attachments/assets/e652a790-4322-46e4-ab9e-6b8550cce84b" />
 
 
 ---
@@ -50,7 +50,7 @@ Create all six required Stories (S1–S6) under the Epic, assign every Story to 
 
 #### Screenshot 3 — Backlog showing the Epic and all six Stories under
 
-<img width="1353" height="657" alt="Screenshot 2026-10-22 200709" src="https://github.com/user-attachments/assets/91b0c39f-a440-4a5d-8552-8451611f21f2" />
+<img width="971" height="822" alt="Screenshot 2026-10-23 142954" src="https://github.com/user-attachments/assets/05968c9f-3e12-4709-aae4-fe82301775b6" />
 
 
 
@@ -58,7 +58,7 @@ Create all six required Stories (S1–S6) under the Epic, assign every Story to 
 
 #### Screenshot 4 — One opened Story showing its Story point estimate, acceptance criteria, and label
 
-<img width="920" height="456" alt="Screenshot 2026-10-22 195210" src="https://github.com/user-attachments/assets/318badfb-7d0b-45e9-9a4b-e924f312c2a8" />
+<img width="1897" height="911" alt="Screenshot 2026-10-23 143137" src="https://github.com/user-attachments/assets/f79387c0-fcf1-46b0-b6d7-c8adeedececa" />
 
 ---
 
@@ -72,14 +72,17 @@ Break down S2 (Primary button color refresh) and S4 (Footer with version and dat
 
 #### Screenshot 5 — S2 showing all four Sub-tasks
 
-<img width="1313" height="512" alt="Screenshot 2026-10-22 195555" src="https://github.com/user-attachments/assets/922026b0-f5fb-4276-a758-14142cb5b142" />
+<img width="952" height="607" alt="Screenshot 2026-10-23 143526" src="https://github.com/user-attachments/assets/c3170ad2-e7f4-46d2-86fa-ceaf850d8392" />
+<img width="955" height="780" alt="Screenshot 2026-10-23 143538" src="https://github.com/user-attachments/assets/17687907-784a-4eaa-9e76-65182fc56003" />
+
 
 
 ---
 
 #### Screenshot 6 — S4 showing all four Sub-tasks
 
-<img width="1336" height="525" alt="Screenshot 2026-10-22 202804" src="https://github.com/user-attachments/assets/213af44a-5d3b-49b9-a09d-cc583d8d50ac" />
+<img width="883" height="617" alt="Screenshot 2026-10-23 143734" src="https://github.com/user-attachments/assets/40f73798-02f0-48dd-b921-d72722bef1a1" />
+<img width="968" height="702" alt="Screenshot 2026-10-23 143742" src="https://github.com/user-attachments/assets/2834ae46-a3ce-4353-9b96-a848a80e61e0" />
 
 
 ---
