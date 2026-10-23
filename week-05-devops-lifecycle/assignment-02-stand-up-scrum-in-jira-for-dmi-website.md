@@ -97,7 +97,9 @@ Apply the `frontend` label to S1, S2, S3, S5, and S6, and the `devops` label to 
 
 #### Screenshot 7 — Backlog or Story details showing labels applied to at least two visible Stories
 
-Add your screenshot here.
+<img width="1896" height="911" alt="Screenshot 2026-10-23 195948" src="https://github.com/user-attachments/assets/c0705a3d-42fa-4a03-b4db-299c2c33a2d4" />
+<img width="1887" height="872" alt="Screenshot 2026-10-23 200017" src="https://github.com/user-attachments/assets/6697966e-88e7-4b5c-a4c1-755011c24f52" />
+
 
 ---
 
@@ -111,13 +113,15 @@ Create a one-week Sprint, move two or three Stories into it (approximately 3–5
 
 #### Screenshot 8 — Sprint 1 before starting, showing the selected Stories and Story Points
 
-Add your screenshot here.
+<img width="1917" height="847" alt="Screenshot 2026-10-23 145056" src="https://github.com/user-attachments/assets/16e3d034-1842-4f3b-9ef0-1d950c2e78c8" />
+
 
 ---
 
 #### Screenshot 9 — Active Sprint board showing the started Sprint and Sprint Goal
 
-Add your screenshot here.
+<img width="1907" height="935" alt="Screenshot 2026-10-23 145338" src="https://github.com/user-attachments/assets/5b67e4b8-0580-4650-a79c-a538eceed1d0" />
+
 
 ---
 
@@ -131,13 +135,14 @@ Filter Jira work by the `frontend` and `devops` labels and review Stories with S
 
 #### Screenshot 10 — Filter for label = frontend showing the filtered results
 
-Add your screenshot here.
+<img width="1872" height="940" alt="Screenshot 2026-10-23 145706" src="https://github.com/user-attachments/assets/d52ed385-421f-410f-8d3b-196af01ae0e8" />
 
 ---
 
 #### Screenshot 11 — Filter for label = devops showing the filtered results
 
-Add your screenshot here.
+<img width="1905" height="967" alt="Screenshot 2026-10-23 150310" src="https://github.com/user-attachments/assets/fe09a762-5603-4ec2-808f-513f5992dfc1" />
+
 
 ---
 
@@ -151,7 +156,9 @@ Locate the Burndown Chart for Sprint 1 so it is ready for later progress trackin
 
 #### Screenshot 12 — Burndown Chart page opened for Sprint 1
 
-Add your screenshot here.
+<img width="1866" height="951" alt="Screenshot 2026-10-23 150629" src="https://github.com/user-attachments/assets/91863626-2264-485f-a142-2f5a89d8d66e" />
+<img width="1910" height="958" alt="Screenshot 2026-10-23 150524" src="https://github.com/user-attachments/assets/74bfdac7-741e-40a9-8cae-4674c9d32e95" />
+
 
 ---
 
@@ -164,16 +171,16 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 1: Private team-managed Scrum Space created with your name (Screenshot 1)
-- [ ] Task 2: Epic "Polish DMI Website UI & Deploy" created (Screenshot 2)
-- [ ] Task 3: All six Stories connected to the Epic, assigned to you, with descriptions/acceptance criteria/points/labels (Screenshots 3 & 4)
-- [ ] Task 4: Four Sub-tasks created under both S2 and S4 (Screenshots 5 & 6)
-- [ ] Task 5: Frontend and devops labels applied to all Stories (Screenshot 7)
-- [ ] Task 6: One-week Sprint 1 started with the required Sprint Goal (Screenshots 8 & 9)
-- [ ] Task 7: Frontend and devops filters demonstrated (Screenshots 10 & 11)
-- [ ] Task 8: Burndown Chart opened for Sprint 1 (Screenshot 12)
-- [ ] Full Name visible in required screenshots
-- [ ] No sensitive data exposed
+- [✅] Task 1: Private team-managed Scrum Space created with your name (Screenshot 1)
+- [✅] Task 2: Epic "Polish DMI Website UI & Deploy" created (Screenshot 2)
+- [✅] Task 3: All six Stories connected to the Epic, assigned to you, with descriptions/acceptance criteria/points/labels (Screenshots 3 & 4)
+- [✅] Task 4: Four Sub-tasks created under both S2 and S4 (Screenshots 5 & 6)
+- [✅] Task 5: Frontend and devops labels applied to all Stories (Screenshot 7)
+- [✅] Task 6: One-week Sprint 1 started with the required Sprint Goal (Screenshots 8 & 9)
+- [✅] Task 7: Frontend and devops filters demonstrated (Screenshots 10 & 11)
+- [✅] Task 8: Burndown Chart opened for Sprint 1 (Screenshot 12)
+- [✅] Full Name visible in required screenshots
+- [✅] No sensitive data exposed
 
 ---
 
