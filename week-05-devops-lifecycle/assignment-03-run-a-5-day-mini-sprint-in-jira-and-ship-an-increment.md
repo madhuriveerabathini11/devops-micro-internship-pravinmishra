@@ -20,13 +20,15 @@ Create the footer Story (`Add footer with version and deploy date`, 1 point, `fr
 
 #### Screenshot 1 — Sprint 1 created with the Story inside it
 
-Add your screenshot here.
+<img width="1903" height="957" alt="Screenshot 2026-10-24 091639" src="https://github.com/user-attachments/assets/ecb6caaa-0d4f-4ab6-8ff8-afc2d02c2a4b" />
+
 
 ---
 
 #### Screenshot 2 — Active Sprint board showing the Sprint Goal
 
-Add your screenshot here.
+<img width="1912" height="948" alt="Screenshot 2026-10-24 091818" src="https://github.com/user-attachments/assets/9ca90e2f-5747-46a5-adb6-f1046c0a7179" />
+
 
 ---
 
@@ -40,7 +42,7 @@ Add the required footer text (`Pravin Mishra Portfolio v1.0 — Deployed on <DD 
 
 #### Screenshot 3 — Jira board showing the Day 1 Sub-task in Done
 
-Add your screenshot here.
+![Uploading Screenshot 2026-10-24 092004.png…]()
 
 ---
 
