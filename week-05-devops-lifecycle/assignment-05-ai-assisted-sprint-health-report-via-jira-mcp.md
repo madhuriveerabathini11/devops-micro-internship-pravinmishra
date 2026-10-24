@@ -160,7 +160,13 @@ Manually update one ticket on your board in the browser (for example, move a sto
 
 Map this assignment to Gather → Analyze → Human Act → Verify from Week 3 Assignment 6. Which step did you perform manually in the browser, and why must that step stay human?
 
-Add your answer here
+- Gather: Collected real sprint data from Jira.
+- Analyze: Used /sprint-health to identify blockers and risks.
+- Human Act: Manually reviewed and performed the required action in the Jira browser.
+- Verify: Checked Jira to confirm the changes.
+  
+Why must Human Act stay human?
+Because AI can make mistakes. A human must approve important changes to protect sprint data and ensure the team makes the right decisions
 
 ---
 
@@ -176,16 +182,16 @@ Your submission must include:
 
 # Completion Checklist
 
-- [ ] Task 1: Jira API token created, value never screenshotted (Screenshot 1)
-- [ ] Task 2: `.mcp.json` has the Jira server block (Screenshot 2)
-- [ ] Task 3: Credentials stored in `settings.local.json`, token blurred, file gitignored (Screenshot 3)
-- [ ] Task 4: `/mcp` shows the Jira server connected (Screenshot 4)
-- [ ] Task 5: Live query returned real sprint data, verified against the browser (Screenshot 5)
-- [ ] Task 6: `/sprint-health` skill created with correct read-only `allowed-tools`, and produced a full report (Screenshots 6–7)
-- [ ] Task 7: A manual board change was reflected in a second `/sprint-health` run (Screenshot 8)
-- [ ] Skill never created, edited, transitioned, or commented on any issue
-- [ ] Reflection answered (Notes)
-- [ ] No API token value exposed
+- [✅] Task 1: Jira API token created, value never screenshotted (Screenshot 1)
+- [✅] Task 2: `.mcp.json` has the Jira server block (Screenshot 2)
+- [✅] Task 3: Credentials stored in `settings.local.json`, token blurred, file gitignored (Screenshot 3)
+- [✅] Task 4: `/mcp` shows the Jira server connected (Screenshot 4)
+- [✅] Task 5: Live query returned real sprint data, verified against the browser (Screenshot 5)
+- [✅] Task 6: `/sprint-health` skill created with correct read-only `allowed-tools`, and produced a full report (Screenshots 6–7)
+- [✅] Task 7: A manual board change was reflected in a second `/sprint-health` run (Screenshot 8)
+- [✅] Skill never created, edited, transitioned, or commented on any issue
+- [✅] Reflection answered (Notes)
+- [✅] No API token value exposed
 
 ---
 
