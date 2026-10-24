@@ -90,7 +90,8 @@ Create at least six Stories under the Epic, estimate each with 1, 2, or 3 story 
 
 #### Screenshot 5 — One Story opened showing its Story Points and acceptance criteria filled in
 
-Add your screenshot here.
+<img width="1887" height="815" alt="Screenshot 2026-10-24 122100" src="https://github.com/user-attachments/assets/fc7c3a1a-018f-459f-93c4-34fbd80f9d61" />
+
 
 ---
 
