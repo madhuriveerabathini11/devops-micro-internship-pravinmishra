@@ -105,7 +105,8 @@ Confirm the Story Points (1, 2, or 3) for each Story and record brief reasoning 
 
 #### Screenshot 6 — Backlog showing Story Points visible, or two or three Stories opened showing their points
 
-Add your screenshot here.
+<img width="1902" height="918" alt="Screenshot 2026-10-24 122311" src="https://github.com/user-attachments/assets/946d5afc-2bba-4d41-aab4-fd9e5c2f7f51" />
+
 
 ---
 
@@ -113,7 +114,7 @@ Add your screenshot here.
 
 For each story, explain in one or two lines why it is a 1, 2, or 3 (mention any debate, even in Solo Mode).
 
-Write your answer here.
+I estimated it as 1 point because the footer change was small and straightforward. In Solo Mode, I considered whether dynamic date logic and deployment testing would make it a 2, but the limited scope and manageable effort supported 1 point.
 
 ---
 
