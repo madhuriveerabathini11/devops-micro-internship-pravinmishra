@@ -69,7 +69,7 @@ Create the Epic `Improve Gotto Job UI discoverability & trust` to group the UI i
 
 #### Screenshot 3 — Backlog showing the Epic panel with the Epic visible
 
-Add your screenshot here.
+<img width="1333" height="900" alt="Screenshot 2026-10-24 121408" src="https://github.com/user-attachments/assets/3ed1f47b-32b6-4c39-80bc-2a60454e223c" />
 
 ---
 
