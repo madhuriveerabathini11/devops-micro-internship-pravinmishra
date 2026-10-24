@@ -126,7 +126,7 @@ Create a `/sprint-health` skill restricted to read-only Jira tools plus `Read`, 
 
 #### Screenshot 7 — `/sprint-health` output showing the full triage report against your real sprint
 
-![Uploading Screenshot 2026-10-24 210702.png…]()
+<img width="955" height="492" alt="Screenshot 2026-10-24 210702" src="https://github.com/user-attachments/assets/7f0538a6-b29c-4fb2-bd06-d50562ad9a29" />
 
 
 
