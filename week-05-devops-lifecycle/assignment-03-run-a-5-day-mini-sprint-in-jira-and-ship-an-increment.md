@@ -127,7 +127,7 @@ Add your screenshot here.
 
 #### Screenshot 13 — Jira Story comment showing the Day 3 Daily Scrum update
 
-Add your screenshot here.
+<img width="1897" height="942" alt="Screenshot 2026-10-24 113755" src="https://github.com/user-attachments/assets/bb0985a1-0c8a-4521-85a9-f9c614f07950" />
 
 ---
 
