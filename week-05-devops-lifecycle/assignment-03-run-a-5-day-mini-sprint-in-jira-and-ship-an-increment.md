@@ -64,7 +64,8 @@ Add the required footer text (`Pravin Mishra Portfolio v1.0 — Deployed on <DD 
 
 #### Screenshot 6 — Jira Story comment showing the Day 1 Daily Scrum update
 
-Add your screenshot here.
+<img width="1900" height="920" alt="Screenshot 2026-10-24 112342" src="https://github.com/user-attachments/assets/e7bef8de-5410-49ec-827f-d83d116a04a9" />
+
 
 ---
 
