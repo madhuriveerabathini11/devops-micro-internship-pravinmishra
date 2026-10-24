@@ -79,7 +79,8 @@ Update the footer so the deployment date is generated automatically (or updated 
 
 #### Screenshot 7 — Code editor showing the footer and date logic or deployment-time template snippet
 
-Add your screenshot here.
+<img width="1542" height="965" alt="Screenshot 2026-10-24 112804" src="https://github.com/user-attachments/assets/6a74991a-d695-4080-b46e-00ae7f162895" />
+
 
 ---
 
@@ -91,13 +92,15 @@ Add your screenshot here.
 
 #### Screenshot 9 — README snippet documenting the footer and date behavior
 
-Add your screenshot here.
+<img width="1466" height="967" alt="Screenshot 2026-10-24 113111" src="https://github.com/user-attachments/assets/7e436d62-22ee-410c-98b0-bbcd587a9706" />
+
 
 ---
 
 #### Screenshot 10 — Jira Story comment showing the Day 2 Daily Scrum update
 
-Add your screenshot here.
+<img width="1913" height="933" alt="Screenshot 2026-10-24 113336" src="https://github.com/user-attachments/assets/f30fdf95-71b3-426f-b3d1-aa20f04e902b" />
+
 
 ---
 
