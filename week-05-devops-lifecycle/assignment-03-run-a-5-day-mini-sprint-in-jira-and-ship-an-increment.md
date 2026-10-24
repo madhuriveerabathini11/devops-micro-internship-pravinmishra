@@ -42,7 +42,8 @@ Add the required footer text (`Pravin Mishra Portfolio v1.0 — Deployed on <DD 
 
 #### Screenshot 3 — Jira board showing the Day 1 Sub-task in Done
 
-![Uploading Screenshot 2026-10-24 092004.png…]()
+<img width="1902" height="1013" alt="Screenshot 2026-10-24 092004" src="https://github.com/user-attachments/assets/5960e297-43bc-4217-9870-7c92bde3fd8a" />
+
 
 ---
 
