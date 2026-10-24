@@ -83,7 +83,8 @@ Create at least six Stories under the Epic, estimate each with 1, 2, or 3 story 
 
 #### Screenshot 4 — Backlog showing the Epic and at least six Stories under it
 
-Add your screenshot here.
+<img width="1333" height="937" alt="Screenshot 2026-10-24 121813" src="https://github.com/user-attachments/assets/afd80ef7-5e86-43f8-ac91-17d14445d5cf" />
+
 
 ---
 
