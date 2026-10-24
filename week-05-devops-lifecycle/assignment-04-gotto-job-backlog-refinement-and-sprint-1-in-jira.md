@@ -149,7 +149,8 @@ Open the Burndown Chart and confirm it exists for Sprint 1. It is acceptable if 
 
 #### Screenshot 9 — Burndown Chart page opened, even if empty
 
-Add your screenshot here.
+<img width="1908" height="861" alt="Screenshot 2026-10-24 123615" src="https://github.com/user-attachments/assets/4a996977-5063-4b17-9a86-55db34291d2e" />
+
 
 ---
 
@@ -163,7 +164,8 @@ Implement one small UI-only Story from Sprint 1, commit it, deploy it live, and 
 
 #### Screenshot 10 — Jira board showing the Story moved to Done
 
-Add your screenshot here.
+<img width="1901" height="962" alt="Screenshot 2026-10-24 123720" src="https://github.com/user-attachments/assets/acb88218-7170-405a-8d6c-9baff6354e91" />
+
 
 ---
 
