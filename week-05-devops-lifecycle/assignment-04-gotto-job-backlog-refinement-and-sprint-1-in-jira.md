@@ -20,7 +20,7 @@ Choose Team Mode or Solo Mode, and document how each Scrum role (Product Owner, 
 
 #### Screenshot 1 — Jira "Create project" screen, or the project sidebar after creation
 
-Add your screenshot here.
+<img width="1905" height="896" alt="Screenshot 2026-10-24 120840" src="https://github.com/user-attachments/assets/833b53e4-fb4a-43a7-a114-65f2830f28a9" />
 
 ---
 
@@ -28,7 +28,19 @@ Add your screenshot here.
 
 Write one line for each role: PO (what you prioritized), SM (how you ensured process), Dev Lead (what you built), DevOps Lead (how you shipped).
 
-Write your answer here.
+PO (Product Owner): Prioritized the footer improvement and homepage CTA to deliver a useful portfolio update.
+
+
+
+SM (Scrum Master): Ensured the five-day Sprint process by tracking daily tasks, Scrum updates, and the retrospective in Jira.
+
+
+
+Dev Lead: Built and polished the portfolio footer, added a dynamic deployment date, and improved mobile responsiveness.
+
+
+
+DevOps Lead: Committed changes using Git, deployed the updates to AWS EC2, and verified the live website.
 
 ---
 
