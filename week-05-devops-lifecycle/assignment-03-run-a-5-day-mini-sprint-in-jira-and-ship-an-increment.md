@@ -49,7 +49,8 @@ Add the required footer text (`Pravin Mishra Portfolio v1.0 — Deployed on <DD 
 
 #### Screenshot 4 — Successful Git commit output
 
-Add your screenshot here.
+![Uploading Screenshot 2026-10-24 105300.png…]()
+
 
 ---
 
