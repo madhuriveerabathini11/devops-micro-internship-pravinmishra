@@ -171,13 +171,15 @@ Implement one small UI-only Story from Sprint 1, commit it, deploy it live, and 
 
 #### Screenshot 11 — Git commit output
 
-Add your screenshot here.
+<img width="1017" height="156" alt="Screenshot 2026-10-24 123928" src="https://github.com/user-attachments/assets/852d4091-207d-46f0-b859-f41bf2fa7133" />
+
 
 ---
 
 #### Screenshot 12 — Live URL in the browser showing the UI change, with the URL visible
 
-Add your screenshot here.
+<img width="1160" height="622" alt="Screenshot 2026-10-24 124102" src="https://github.com/user-attachments/assets/88eb0878-651b-4a99-ab5a-7f6abb430156" />
+
 
 ---
 
@@ -191,7 +193,8 @@ Add a retro comment covering what went well, what to improve, one Scrum pillar o
 
 #### Screenshot 13 — Jira retro comment visible
 
-Add your screenshot here.
+<img width="1907" height="911" alt="Screenshot 2026-10-24 124305" src="https://github.com/user-attachments/assets/6afe76ea-5dfa-4f8b-a50d-7140d8a3227d" />
+
 
 ---
 
