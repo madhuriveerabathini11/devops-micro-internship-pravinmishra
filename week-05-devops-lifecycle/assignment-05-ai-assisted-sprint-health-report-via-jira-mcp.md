@@ -20,13 +20,14 @@ Generate an API token from your Atlassian account that the MCP server will use t
 
 #### Screenshot 1 — Jira API token creation confirmation page showing the token name, with the token value not visible
 
-Add your screenshot here.
+<img width="1077" height="415" alt="Screenshot 2026-10-24 152848" src="https://github.com/user-attachments/assets/6051c439-a767-4565-ab3d-7b8fca74df9e" />
+
 
 ### Notes You Must Write (Very Important):
 
 Why does the MCP server need your site URL and account email in addition to the token?
 
-Add your answer here
+The site URL tells the server where to connect, the email tells it which account to use, and the API token helps it authenticate securely. All three are needed to establish the Jira connection, and the token must be kept secret.
 
 ---
 
@@ -40,13 +41,14 @@ Create or update `.mcp.json` at your project root with a Jira MCP server block, 
 
 #### Screenshot 2 — `.mcp.json` open in VS Code showing the Jira server configuration
 
-Add your screenshot here.
+<img width="1488" height="180" alt="Screenshot 2026-10-24 153106" src="https://github.com/user-attachments/assets/dad2fcea-ef20-4597-8def-b753013796a6" />
+
 
 ### Notes You Must Write (Very Important):
 
 Compare this jira block to the github block from Week 2 Assignment 5. The GitHub server ran via npx (a Node.js package); this one runs via uvx (a Python package) — what stays exactly the same shape despite that difference, and why doesn't Claude Code care which language a given MCP server is written in?
 
-Add your answer here
+The package runner and implementation language may differ, but the configuration structure and MCP communication protocol remain consistent. This allows Claude Code to use tools built in different programming languages without needing language-specific integration.
 
 ---
 
@@ -60,14 +62,17 @@ Add your Jira site URL, account email, and API token to `.claude/settings.local.
 
 #### Screenshot 3 — `settings.local.json` open in VS Code showing the `env` section, with the actual token value blurred or covered
 
-Add your screenshot here.
+<img width="783" height="312" alt="Screenshot 2026-10-24 153211" src="https://github.com/user-attachments/assets/dd3928d1-9bf3-406a-988a-6904ddb2217a" />
+
 
 ### Notes You Must Write (Very Important):
 
 Why must JIRA_API_TOKEN live in settings.local.json and never in .mcp.json?
 
-Add your answer here
-
+JIRA_API_TOKEN must be stored in settings.local.json and never in .mcp.json because the API token is a sensitive secret.
+- settings.local.json: Stores local, private configuration and secrets, helping prevent accidental exposure when the project is shared or committed to Git.
+- .mcp.json: Defines the MCP server configuration, such as the server name, command (uvx), arguments, and environment-variable references. It may be committed to Git, so it should not contain actual secret values.
+  
 ---
 
 # Task 4 — Verify the Connection with /mcp
@@ -80,7 +85,8 @@ Restart Claude Code and confirm the Jira MCP server shows as connected.
 
 #### Screenshot 4 — `/mcp` output showing `jira: connected`
 
-Add your screenshot here.
+<img width="311" height="117" alt="Screenshot 2026-10-24 154413" src="https://github.com/user-attachments/assets/4c5d26ae-bf7c-47d4-ae85-8c6d30d8ed0f" />
+
 
 ---
 
