@@ -126,7 +126,9 @@ Create a `/sprint-health` skill restricted to read-only Jira tools plus `Read`, 
 
 #### Screenshot 7 — `/sprint-health` output showing the full triage report against your real sprint
 
-<img width="578" height="343" alt="Screenshot 2026-10-24 205613" src="https://github.com/user-attachments/assets/8f7de2d8-e37e-42b4-99a5-da00479ef2c0" />
+![Uploading Screenshot 2026-10-24 210702.png…]()
+
+
 
 ### Notes You Must Write (Very Important):
 
@@ -152,7 +154,7 @@ Manually update one ticket on your board in the browser (for example, move a sto
 
 #### Screenshot 8 — Second `/sprint-health` run showing the report now reflects your manual board change
 
-Add your screenshot here.
+<img width="578" height="343" alt="Screenshot 2026-10-24 205613" src="https://github.com/user-attachments/assets/8f7de2d8-e37e-42b4-99a5-da00479ef2c0" />
 
 ### Notes You Must Write (Very Important):
 
