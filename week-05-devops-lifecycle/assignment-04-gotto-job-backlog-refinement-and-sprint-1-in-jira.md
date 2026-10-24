@@ -54,7 +54,8 @@ Create a Team-managed Scrum project named `Gotto Job – Team <#>` (Team Mode) o
 
 #### Screenshot 2 — Project created page showing the project name and key
 
-Add your screenshot here.
+<img width="1885" height="881" alt="Screenshot 2026-10-24 121106" src="https://github.com/user-attachments/assets/d27d55c3-1e4a-4152-b5e6-e7263e5e5566" />
+
 
 ---
 
