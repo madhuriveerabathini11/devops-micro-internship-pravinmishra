@@ -122,7 +122,8 @@ Improve the footer's spacing, contrast, and readability, then validate it at bot
 
 #### Screenshot 12 — Mobile responsive view showing the footer remains readable
 
-Add your screenshot here.
+<img width="973" height="705" alt="Screenshot 2026-10-24 114535" src="https://github.com/user-attachments/assets/56bc5a01-7778-445d-974a-9d8977ec3f45" />
+
 
 ---
 
@@ -142,7 +143,8 @@ Replace the existing homepage tagline with the required DMI Website call-to-acti
 
 #### Screenshot 14 — EC2 browser view showing "Start your DevOps Journey here" and the clickable "Visit the DMI Website" link
 
-Add your screenshot here.
+<img width="870" height="617" alt="Screenshot 2026-10-24 114745" src="https://github.com/user-attachments/assets/d64a0744-f88c-4073-bdf5-314a1bc54a71" />
+
 
 ---
 
