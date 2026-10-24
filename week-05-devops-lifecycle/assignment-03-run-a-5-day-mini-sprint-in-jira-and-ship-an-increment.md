@@ -86,7 +86,8 @@ Update the footer so the deployment date is generated automatically (or updated 
 
 #### Screenshot 8 — EC2 browser view showing the updated footer with the current date
 
-Add your screenshot here.
+<img width="982" height="622" alt="Screenshot 2026-10-24 112007" src="https://github.com/user-attachments/assets/1f94029d-499d-4eae-8174-3f04eee5b606" />
+
 
 ---
 
