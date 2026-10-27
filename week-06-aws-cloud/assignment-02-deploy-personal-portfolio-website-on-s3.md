@@ -64,7 +64,7 @@ Enable S3 Static Website Hosting with `index.html` as the index document and `er
 
 #### Screenshot 4 — Static website hosting enabled screen showing the Website endpoint
 
-Add your screenshot here.
+<img width="1877" height="882" alt="Screenshot 2026-10-27 200902" src="https://github.com/user-attachments/assets/c48e1a80-808d-448f-80f5-88b2defa600f" />
 
 ---
 
