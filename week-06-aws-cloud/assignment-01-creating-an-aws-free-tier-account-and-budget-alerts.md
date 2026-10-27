@@ -30,7 +30,8 @@ In the Billing Dashboard, create a monthly Cost Budget with a name, amount, and 
 
 #### Screenshot 1 — AWS Budget setup page showing the budget name, budget amount, and alert thresholds
 
-Add your screenshot here.
+<img width="1010" height="452" alt="Screenshot 2026-10-27 190950" src="https://github.com/user-attachments/assets/911c82cf-4a59-4c09-92b3-90642485539c" />
+
 
 ---
 
@@ -40,7 +41,7 @@ Answer the following in your own words:
 
 **1. Why is it important to set up budget alerts when using an AWS account?**
 
-Write your answer here.
+Setting up budget alerts in AWS is important because they help us monitor cloud spending and avoid unexpected charges. They notify us when our AWS usage or costs reach a specified budget limit, allowing us to take action and control expenses. Even when using the AWS Free Tier, some services may incur charges.
 
 ---
 
@@ -53,13 +54,13 @@ Write your answer here.
 
 # Completion Checklist
 
-- [ ] AWS Free Tier account created and Basic Support Plan (Free) selected
-- [ ] Logged in to the AWS Management Console
-- [ ] Monthly Cost Budget created with name, amount, and start month
-- [ ] Budget alert thresholds and notification email configured
-- [ ] Screenshot captured showing budget name, amount, and thresholds (Screenshot 1)
-- [ ] Notes question answered
-- [ ] No sensitive billing or account information exposed
+- [✅] AWS Free Tier account created and Basic Support Plan (Free) selected
+- [✅] Logged in to the AWS Management Console
+- [✅] Monthly Cost Budget created with name, amount, and start month
+- [✅] Budget alert thresholds and notification email configured
+- [✅] Screenshot captured showing budget name, amount, and thresholds (Screenshot 1)
+- [✅] Notes question answered
+- [✅] No sensitive billing or account information exposed
 
 ---
 
