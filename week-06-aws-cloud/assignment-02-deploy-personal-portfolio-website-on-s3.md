@@ -78,7 +78,7 @@ Adjust Block Public Access settings and save a bucket policy that grants public 
 
 #### Screenshot 5 — Bucket policy page showing the policy saved successfully, with the bucket name visible
 
-<img width="1905" height="848" alt="Screenshot 2026-10-27 201209" src="https://github.com/user-attachments/assets/dac2b76a-cd67-4842-9a05-19392060abf3" />
+<img width="1903" height="762" alt="Screenshot 2026-10-27 201437" src="https://github.com/user-attachments/assets/0c089da5-e4ae-4a3c-9edd-f7e023479485" />
 
 
 ---
