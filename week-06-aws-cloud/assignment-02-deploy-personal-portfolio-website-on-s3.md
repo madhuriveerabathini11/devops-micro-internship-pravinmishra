@@ -49,7 +49,8 @@ Upload the contents of the template folder (not the folder itself) so `index.htm
 
 #### Screenshot 3 — S3 bucket Objects view showing `index.html` at the top or root level
 
-Add your screenshot here.
+<img width="1547" height="847" alt="Screenshot 2026-10-27 195911" src="https://github.com/user-attachments/assets/355968b4-ad1b-4a14-aded-41a1ec0276d5" />
+
 
 ---
 
