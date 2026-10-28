@@ -112,6 +112,8 @@ Edit a small visible detail, re-upload it to S3, and confirm the change appears 
 
 #### Screenshot 7 (optional) — Before and after views, or a browser view showing the updated text
 
+<img width="567" height="202" alt="Screenshot 2026-10-28 200035" src="https://github.com/user-attachments/assets/489359fb-8b2f-43d3-8ea7-d4c18c652cf5" />
+
 
 ---
 
