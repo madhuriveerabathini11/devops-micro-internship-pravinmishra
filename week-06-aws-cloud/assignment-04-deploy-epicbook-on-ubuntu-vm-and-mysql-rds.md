@@ -50,7 +50,7 @@ Create `epicbook-ec2-sg` (SSH from your IP, HTTP/HTTPS public) and `epicbook-rds
 
 #### Screenshot 4 — EC2 security-group inbound rules showing ports and sources
 
-Add your screenshot here.
+<img width="1903" height="816" alt="Screenshot 2026-10-30 220350" src="https://github.com/user-attachments/assets/22f3e9db-d2ca-483f-830d-e04898f363bb" />
 
 ---
 
