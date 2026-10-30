@@ -35,7 +35,8 @@ Create `epicbook-vpc` (10.0.0.0/16) with a public subnet (10.0.1.0/24) and a pri
 
 #### Screenshot 3 — Route table showing 0.0.0.0/0 → IGW and association with the public subnet
 
-Add your screenshot here.
+<img width="1892" height="651" alt="image" src="https://github.com/user-attachments/assets/08467375-59e2-414e-990d-d93872efba0f" />
+
 
 ---
 
