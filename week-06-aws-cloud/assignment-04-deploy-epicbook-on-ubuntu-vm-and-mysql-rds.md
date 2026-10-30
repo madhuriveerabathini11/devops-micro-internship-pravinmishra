@@ -27,6 +27,8 @@ Create `epicbook-vpc` (10.0.0.0/16) with a public subnet (10.0.1.0/24) and a pri
 #### Screenshot 2 — Subnets list showing both subnets and their CIDRs
 
 <img width="1917" height="493" alt="Screenshot 2026-10-30 212646" src="https://github.com/user-attachments/assets/7531ab4a-e77d-4aff-a484-d0bcb2f6eb6e" />
+<img width="1552" height="126" alt="Screenshot 2026-10-30 213933" src="https://github.com/user-attachments/assets/3fc826e1-3683-403a-894a-fab60ee3d49f" />
+
 
 
 ---
