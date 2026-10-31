@@ -71,7 +71,8 @@ Launch an Ubuntu 20.04 instance in the public subnet with `epicbook-ec2-sg` atta
 
 #### Screenshot 6 — EC2 instance summary showing the public IPv4 address, subnet, and security group
 
-Add your screenshot here.
+<img width="1916" height="390" alt="Screenshot 2026-10-31 154238" src="https://github.com/user-attachments/assets/22e7943b-c381-4a75-8f98-d4f55c727fd9" />
+
 
 ---
 
